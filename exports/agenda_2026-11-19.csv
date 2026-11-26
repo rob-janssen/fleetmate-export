@@ -1,0 +1,619 @@
+﻿ID;fromName;toName;fromDate;toDate;title;itemType;itemId;vehicleId;license;vehicleNumber;scheduleId;hasSchedule;Type
+1082;Werkplaats;Wagenpark Boom Transport BV;02/12/2026 00:00:00;02/12/2026 00:00:00;Onderhoud Q beurt voor kenteken 65-BZX-7;18;237;;65-BZX-7;25124;;;Onderhoud
+140;Werkplaats;Wagenpark Boom Transport BV;05/12/2026 00:00:00;05/12/2026 00:00:00;Tachograaf-datum verlopen van kenteken 75-BTT-8;7;69;;75-BTT-8;23197;;;Tachograaf
+1331;Werkplaats;Wagenpark Boom Transport BV;08/12/2026 00:00:00;08/12/2026 00:00:00;Oplegger beurt voor kenteken OX-76-GH;18;467;;OX-76-GH;BT137;;;Oplegger
+1326;Werkplaats;Wagenpark Boom Transport BV;08/12/2026 00:00:00;08/12/2026 00:00:00;Oplegger beurt voor kenteken OX-77-GH;18;463;;OX-77-GH;BT138;;;Oplegger
+1388;Administratie;Boom Transport BV.;09/12/2026 00:00:00;09/12/2026 00:00:00;Vervallen factuur: 26-0465: Boom Transport BV.;6;1236;;;;;;Overig
+1313;Werkplaats;Wagenpark Boom Transport BV;12/12/2026 00:00:00;12/12/2026 00:00:00;Alarm Keuring voor kenteken BB-078-Z;108;1004;;BB-078-Z;25129;;;Alarm
+1150;Werkplaats;Wagenpark Boom Transport BV;13/12/2026 00:00:00;13/12/2026 00:00:00;Oplegger beurt voor kenteken OV-95-TB;18;305;;OV-95-TB;BT130;;;Oplegger
+264;Werkplaats;Wagenpark Boom Transport BV;14/12/2026 00:00:00;14/12/2026 00:00:00;APK-datum verlopen van kenteken OS-23-LZ;1;283;;OS-23-LZ;BT75;;;APK
+789;Werkplaats;Wagenpark Boom Transport BV;14/12/2026 00:00:00;14/12/2026 00:00:00;Koeler A beurt voor kenteken OS-23-LZ;18;50;;OS-23-LZ;BT75;;;Koeler
+276;Werkplaats;Wagenpark Boom Transport BV;14/12/2026 00:00:00;14/12/2026 00:00:00;APK-datum verlopen van kenteken OS-26-LV;1;282;;OS-26-LV;BT74;;;APK
+783;Werkplaats;Wagenpark Boom Transport BV;14/12/2026 00:00:00;14/12/2026 00:00:00;Koeler A beurt voor kenteken OS-26-LV;18;46;;OS-26-LV;BT74;;;Koeler
+1172;Werkplaats;Wagenpark Boom Transport BV;14/12/2026 09:00:00;14/12/2026 09:00:00;Oplegger beurt voor kenteken OS-23-LZ;18;327;;OS-23-LZ;BT75;;;Oplegger
+1170;Werkplaats;Wagenpark Boom Transport BV;14/12/2026 13:42:00;14/12/2026 13:42:00;Oplegger beurt voor kenteken OS-26-LV;18;325;;OS-26-LV;BT74;;;Oplegger
+1312;Werkplaats;Wagenpark Boom Transport BV;16/12/2026 00:00:00;16/12/2026 00:00:00;Alarm Keuring voor kenteken BB-079-Z;108;1003;;BB-079-Z;251209;;;Alarm
+1322;Werkplaats;Wagenpark Boom Transport BV;17/12/2026 00:00:00;17/12/2026 00:00:00;Oplegger beurt voor kenteken OX-96-GN;18;459;;OX-96-GN;BT140;;;Oplegger
+1188;Werkplaats;Wagenpark Boom Transport BV;18/12/2026 00:00:00;18/12/2026 00:00:00;Oplegger beurt voor kenteken OS-72-TY;18;343;;OS-72-TY;BT83;;;Oplegger
+1186;Werkplaats;Wagenpark Boom Transport BV;18/12/2026 09:00:00;18/12/2026 09:00:00;Oplegger beurt voor kenteken OS-71-TY;18;341;;OS-71-TY;BT82;;;Oplegger
+1190;Werkplaats;Wagenpark Boom Transport BV;18/12/2026 09:00:00;18/12/2026 09:00:00;Oplegger beurt voor kenteken OS-73-TY;18;345;;OS-73-TY;BT84;;;Oplegger
+1156;Werkplaats;Wagenpark Boom Transport BV;19/12/2026 11:00:00;19/12/2026 11:00:00;Oplegger beurt voor kenteken OP-30-YJ;18;311;;OP-30-YJ;BT67;;;Oplegger
+268;Werkplaats;Wagenpark Boom Transport BV;21/12/2026 00:00:00;21/12/2026 00:00:00;APK-datum verlopen van kenteken OS-24-LZ;1;284;;OS-24-LZ;BT76;;;APK
+824;Werkplaats;Wagenpark Boom Transport BV;21/12/2026 00:00:00;21/12/2026 00:00:00;Koeler A beurt voor kenteken OS-24-LZ;18;74;;OS-24-LZ;BT76;;;Koeler
+1174;Werkplaats;Wagenpark Boom Transport BV;21/12/2026 08:00:00;21/12/2026 08:00:00;Oplegger beurt voor kenteken OS-24-LZ;18;329;;OS-24-LZ;BT76;;;Oplegger
+272;Werkplaats;Wagenpark Boom Transport BV;22/12/2026 00:00:00;22/12/2026 00:00:00;APK-datum verlopen van kenteken OS-25-LZ;1;285;;OS-25-LZ;BT77;;;APK
+279;Werkplaats;Wagenpark Boom Transport BV;22/12/2026 00:00:00;22/12/2026 00:00:00;APK-datum verlopen van kenteken OS-26-LZ;1;286;;OS-26-LZ;BT78;;;APK
+283;Werkplaats;Wagenpark Boom Transport BV;22/12/2026 00:00:00;22/12/2026 00:00:00;APK-datum verlopen van kenteken OS-27-LZ;1;287;;OS-27-LZ;BT79;;;APK
+817;Werkplaats;Wagenpark Boom Transport BV;22/12/2026 00:00:00;22/12/2026 00:00:00;Koeler A beurt voor kenteken OS-27-LZ;18;69;;OS-27-LZ;BT79;;;Koeler
+1055;Werkplaats;Wagenpark Boom Transport BV;24/12/2026 00:00:00;24/12/2026 00:00:00;Onderhoud Q beurt voor kenteken 41-BTB-6;18;211;;41-BTB-6;22137;;;Onderhoud
+1180;Werkplaats;Wagenpark Boom Transport BV;26/12/2026 09:18:00;26/12/2026 09:18:00;Oplegger beurt voor kenteken OS-27-LZ;18;335;;OS-27-LZ;BT79;;;Oplegger
+1078;Werkplaats;Wagenpark Boom Transport BV;30/12/2026 00:00:00;30/12/2026 00:00:00;Onderhoud Q beurt voor kenteken 64-BZX-7;18;233;;64-BZX-7;25123;;;Onderhoud
+183;Werkplaats;Boom Transport BV;01/01/2027 00:00:00;01/01/2027 00:00:00;FRC stickers voor kenteken OL-32-PD;102;255;;OL-32-PD;;;;FRC
+103;Werkplaats;Wagenpark Boom Transport BV;02/01/2027 00:00:00;02/01/2027 00:00:00;APK-datum verlopen van kenteken 10-BTS-1;1;51;;10-BTS-1;23193;;;APK
+105;Werkplaats;Wagenpark Boom Transport BV;02/01/2027 00:00:00;02/01/2027 00:00:00;APK-datum verlopen van kenteken 11-BTS-1;1;52;;11-BTS-1;23194;;;APK
+978;Werkplaats;Wagenpark Boom Transport BV;02/01/2027 00:00:00;02/01/2027 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 11-BTS-1;18;134;;11-BTS-1;23194;;;Onderhoud
+107;Werkplaats;Wagenpark Boom Transport BV;02/01/2027 00:00:00;02/01/2027 00:00:00;APK-datum verlopen van kenteken 12-BTS-1;1;53;;12-BTS-1;23195;;;APK
+979;Werkplaats;Wagenpark Boom Transport BV;02/01/2027 00:00:00;02/01/2027 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 12-BTS-1;18;135;;12-BTS-1;23195;;;Onderhoud
+461;Werkplaats;Wagenpark Boom Transport BV;02/01/2027 00:00:00;02/01/2027 00:00:00;APK-datum verlopen van kenteken 25-BZS-9;1;342;;25-BZS-9;24305;;;APK
+980;Werkplaats;Wagenpark Boom Transport BV;02/01/2027 00:00:00;02/01/2027 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken 25-BZS-9;18;136;;25-BZS-9;24305;;;Onderhoud
+462;Werkplaats;Wagenpark Boom Transport BV;02/01/2027 00:00:00;02/01/2027 00:00:00;APK-datum verlopen van kenteken 75-BZS-6;1;343;;75-BZS-6;24306;;;APK
+1005;Werkplaats;Wagenpark Boom Transport BV;02/01/2027 00:00:00;02/01/2027 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken 75-BZS-6;18;161;;75-BZS-6;24306;;;Onderhoud
+464;Werkplaats;Wagenpark Boom Transport BV;03/01/2027 00:00:00;03/01/2027 00:00:00;Tachograaf-datum verlopen van kenteken 75-BZS-6;7;343;;75-BZS-6;24306;;;Tachograaf
+1336;Werkplaats;Wagenpark Boom Transport BV;03/01/2027 00:00:00;03/01/2027 00:00:00;Oplegger beurt voor kenteken OX-95-GN;18;471;;OX-95-GN;BT139;;;Oplegger
+1358;Werkplaats;Wagenpark Boom Transport BV;03/01/2027 00:00:00;03/01/2027 00:00:00;Oplegger beurt voor kenteken OX-97-GN;18;484;;OX-97-GN;BT141;;;Oplegger
+349;Werkplaats;Wagenpark Boom Transport BV;04/01/2027 00:00:00;04/01/2027 00:00:00;APK-datum verlopen van kenteken OV-09-FG;1;319;;OV-09-FG;BT111;;;APK
+1110;Werkplaats;Wagenpark Boom Transport BV;04/01/2027 00:00:00;04/01/2027 00:00:00;Koeler B beurt voor kenteken OV-09-FG;18;265;;OV-09-FG;BT111;;;Koeler
+351;Werkplaats;Wagenpark Boom Transport BV;04/01/2027 00:00:00;04/01/2027 00:00:00;APK-datum verlopen van kenteken OV-10-FG;1;320;;OV-10-FG;BT112;;;APK
+1112;Werkplaats;Wagenpark Boom Transport BV;04/01/2027 00:00:00;04/01/2027 00:00:00;Koeler B beurt voor kenteken OV-10-FG;18;267;;OV-10-FG;BT112;;;Koeler
+1113;Werkplaats;Wagenpark Boom Transport BV;04/01/2027 00:00:00;04/01/2027 00:00:00;Oplegger beurt voor kenteken OV-10-FG;18;268;;OV-10-FG;BT112;;;Oplegger
+1111;Werkplaats;Wagenpark Boom Transport BV;04/01/2027 08:00:00;04/01/2027 08:00:00;Oplegger beurt voor kenteken OV-09-FG;18;266;;OV-09-FG;BT111;;;Oplegger
+891;Werkplaats;Wagenpark Boom Transport BV;05/01/2027 00:00:00;05/01/2027 00:00:00;APK-datum verlopen van kenteken BB-078-Z;1;1004;;BB-078-Z;25129;;;APK
+1012;Werkplaats;Wagenpark Boom Transport BV;05/01/2027 00:00:00;05/01/2027 00:00:00;Onderhoud XG XY beurt (1ste jaar) voor kenteken BB-078-Z;18;168;;BB-078-Z;25129;;;Onderhoud
+892;Werkplaats;Wagenpark Boom Transport BV;05/01/2027 00:00:00;05/01/2027 00:00:00;APK-datum verlopen van kenteken BB-079-Z;1;1003;;BB-079-Z;251209;;;APK
+1016;Werkplaats;Wagenpark Boom Transport BV;05/01/2027 00:00:00;05/01/2027 00:00:00;Onderhoud XG XY beurt (1ste jaar) voor kenteken BB-079-Z;18;172;;BB-079-Z;251209;;;Onderhoud
+347;Werkplaats;Wagenpark Boom Transport BV;06/01/2027 00:00:00;06/01/2027 00:00:00;APK-datum verlopen van kenteken OV-08-FG;1;318;;OV-08-FG;BT110;;;APK
+1108;Werkplaats;Wagenpark Boom Transport BV;06/01/2027 00:00:00;06/01/2027 00:00:00;Koeler B beurt voor kenteken OV-08-FG;18;263;;OV-08-FG;BT110;;;Koeler
+1109;Werkplaats;Wagenpark Boom Transport BV;06/01/2027 10:00:00;06/01/2027 10:00:00;Oplegger beurt voor kenteken OV-08-FG;18;264;;OV-08-FG;BT110;;;Oplegger
+353;Werkplaats;Wagenpark Boom Transport BV;07/01/2027 00:00:00;07/01/2027 00:00:00;APK-datum verlopen van kenteken OV-11-FG;1;321;;OV-11-FG;BT113;;;APK
+1114;Werkplaats;Wagenpark Boom Transport BV;07/01/2027 00:00:00;07/01/2027 00:00:00;Koeler B beurt voor kenteken OV-11-FG;18;269;;OV-11-FG;BT113;;;Koeler
+355;Werkplaats;Wagenpark Boom Transport BV;07/01/2027 00:00:00;07/01/2027 00:00:00;APK-datum verlopen van kenteken OV-12-FG;1;322;;OV-12-FG;BT114;;;APK
+1116;Werkplaats;Wagenpark Boom Transport BV;07/01/2027 00:00:00;07/01/2027 00:00:00;Koeler B beurt voor kenteken OV-12-FG;18;271;;OV-12-FG;BT114;;;Koeler
+1115;Werkplaats;Wagenpark Boom Transport BV;07/01/2027 08:00:00;07/01/2027 08:00:00;Oplegger beurt voor kenteken OV-11-FG;18;270;;OV-11-FG;BT113;;;Oplegger
+1117;Werkplaats;Wagenpark Boom Transport BV;07/01/2027 10:00:00;07/01/2027 10:00:00;Oplegger beurt voor kenteken OV-12-FG;18;272;;OV-12-FG;BT114;;;Oplegger
+138;Werkplaats;Wagenpark Boom Transport BV;08/01/2027 00:00:00;08/01/2027 00:00:00;Tachograaf-datum verlopen van kenteken 74-BTT-8;7;68;;74-BTT-8;23196;;;Tachograaf
+311;Werkplaats;Wagenpark Boom Transport BV;16/01/2027 00:00:00;16/01/2027 00:00:00;APK-datum verlopen van kenteken OT-19-SN;1;315;;OT-19-SN;BT107;;;APK
+1102;Werkplaats;Wagenpark Boom Transport BV;16/01/2027 00:00:00;16/01/2027 00:00:00;Koeler B beurt voor kenteken OT-19-SN;18;257;;OT-19-SN;BT107;;;Koeler
+315;Werkplaats;Wagenpark Boom Transport BV;16/01/2027 00:00:00;16/01/2027 00:00:00;APK-datum verlopen van kenteken OT-20-SN;1;316;;OT-20-SN;BT108;;;APK
+1104;Werkplaats;Wagenpark Boom Transport BV;16/01/2027 00:00:00;16/01/2027 00:00:00;Koeler B beurt voor kenteken OT-20-SN;18;259;;OT-20-SN;BT108;;;Koeler
+1105;Werkplaats;Wagenpark Boom Transport BV;16/01/2027 00:00:00;16/01/2027 00:00:00;Oplegger beurt voor kenteken OT-20-SN;18;260;;OT-20-SN;BT108;;;Oplegger
+319;Werkplaats;Wagenpark Boom Transport BV;16/01/2027 00:00:00;16/01/2027 00:00:00;APK-datum verlopen van kenteken OT-21-SN;1;317;;OT-21-SN;BT109;;;APK
+1106;Werkplaats;Wagenpark Boom Transport BV;16/01/2027 00:00:00;16/01/2027 00:00:00;Koeler B beurt voor kenteken OT-21-SN;18;261;;OT-21-SN;BT109;;;Koeler
+1247;Werkplaats;Wagenpark Boom Transport BV;16/01/2027 00:00:00;16/01/2027 00:00:00;CFK Keuring voor kenteken OV-09-FG;18;396;;OV-09-FG;BT111;;;CFK
+1103;Werkplaats;Wagenpark Boom Transport BV;16/01/2027 08:00:00;16/01/2027 08:00:00;Oplegger beurt voor kenteken OT-19-SN;18;258;;OT-19-SN;BT107;;;Oplegger
+1107;Werkplaats;Wagenpark Boom Transport BV;16/01/2027 12:00:00;16/01/2027 12:00:00;Oplegger beurt voor kenteken OT-21-SN;18;262;;OT-21-SN;BT109;;;Oplegger
+97;Werkplaats;Wagenpark Boom Transport BV;18/01/2027 00:00:00;18/01/2027 00:00:00;APK-datum verlopen van kenteken 01-BXH-7;1;48;;01-BXH-7;24200;;;APK
+1036;Werkplaats;Wagenpark Boom Transport BV;18/01/2027 00:00:00;18/01/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 01-BXH-7;18;192;;01-BXH-7;24200;;;Onderhoud
+89;Werkplaats;Wagenpark Boom Transport BV;18/01/2027 00:00:00;18/01/2027 00:00:00;APK-datum verlopen van kenteken 27-BXH-7;1;44;;27-BXH-7;24280;;;APK
+985;Werkplaats;Wagenpark Boom Transport BV;18/01/2027 00:00:00;18/01/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 27-BXH-7;18;141;;27-BXH-7;24280;;;Onderhoud
+1162;Werkplaats;Wagenpark Boom Transport BV;18/01/2027 10:00:00;18/01/2027 10:00:00;Oplegger beurt voor kenteken OP-46-HS;18;317;;OP-46-HS;BT61;;;Oplegger
+1161;Werkplaats;Wagenpark Boom Transport BV;18/01/2027 14:25:00;18/01/2027 14:25:00;Oplegger beurt voor kenteken OP-47-HS;18;316;;OP-47-HS;BT62;;;Oplegger
+1310;Werkplaats;Wagenpark Boom Transport BV;19/01/2027 00:00:00;19/01/2027 00:00:00;Alarm Keuring voor kenteken BD-844-B;108;1011;;BD-844-B;260127;;;Alarm
+1239;Werkplaats;Wagenpark Boom Transport BV;19/01/2027 00:00:00;19/01/2027 00:00:00;CFK Keuring voor kenteken OT-45-TD;18;388;;OT-45-TD;BT104;;;CFK
+1240;Werkplaats;Boom Transport BV;19/01/2027 00:00:00;19/01/2027 00:00:00;CFK Keuring voor kenteken OT-46-TD;18;389;;OT-46-TD;BT105;;;CFK
+1241;Werkplaats;Wagenpark Boom Transport BV;19/01/2027 00:00:00;19/01/2027 00:00:00;CFK Keuring voor kenteken OT-47-TD;18;390;;OT-47-TD;BT106;;;CFK
+1246;Werkplaats;Wagenpark Boom Transport BV;19/01/2027 00:00:00;19/01/2027 00:00:00;CFK Keuring voor kenteken OV-08-FG;18;395;;OV-08-FG;BT110;;;CFK
+91;Werkplaats;Wagenpark Boom Transport BV;23/01/2027 00:00:00;23/01/2027 00:00:00;APK-datum verlopen van kenteken 28-BXH-7;1;45;;28-BXH-7;203;;;APK
+987;Werkplaats;Wagenpark Boom Transport BV;23/01/2027 00:00:00;23/01/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 28-BXH-7;18;143;;28-BXH-7;203;;;Onderhoud
+123;Werkplaats;Wagenpark Boom Transport BV;23/01/2027 00:00:00;23/01/2027 00:00:00;APK-datum verlopen van kenteken 39-BXJ-2;1;61;;39-BXJ-2;24282;;;APK
+989;Werkplaats;Wagenpark Boom Transport BV;23/01/2027 00:00:00;23/01/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 39-BXJ-2;18;145;;39-BXJ-2;24282;;;Onderhoud
+1064;Werkplaats;Wagenpark Boom Transport BV;23/01/2027 00:00:00;23/01/2027 00:00:00;Onderhoud Q beurt voor kenteken 99-BZX-6;18;220;;99-BZX-6;25122;;;Onderhoud
+137;Werkplaats;Wagenpark Boom Transport BV;24/01/2027 00:00:00;24/01/2027 00:00:00;APK-datum verlopen van kenteken 74-BTT-8;1;68;;74-BTT-8;23196;;;APK
+1003;Werkplaats;Wagenpark Boom Transport BV;24/01/2027 00:00:00;24/01/2027 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 74-BTT-8;18;159;;74-BTT-8;23196;;;Onderhoud
+139;Werkplaats;Wagenpark Boom Transport BV;24/01/2027 00:00:00;24/01/2027 00:00:00;APK-datum verlopen van kenteken 75-BTT-8;1;69;;75-BTT-8;23197;;;APK
+1004;Werkplaats;Wagenpark Boom Transport BV;24/01/2027 00:00:00;24/01/2027 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 75-BTT-8;18;160;;75-BTT-8;23197;;;Onderhoud
+949;Werkplaats;Wagenpark Boom Transport BV;24/01/2027 00:00:00;24/01/2027 00:00:00;APK-datum verlopen van kenteken 76-BTT-8;1;71;;76-BTT-8;23198;;;APK
+1008;Werkplaats;Wagenpark Boom Transport BV;24/01/2027 00:00:00;24/01/2027 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 76-BTT-8;18;164;;76-BTT-8;23198;;;Onderhoud
+911;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;APK-datum verlopen van kenteken BD-843-B;1;1005;;BD-843-B;260126;;;APK
+1311;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;Alarm Keuring voor kenteken BD-843-B;108;1005;;BD-843-B;260126;;;Alarm
+1020;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;Onderhoud XG XY beurt (1ste jaar) voor kenteken BD-843-B;18;176;;BD-843-B;260126;;;Onderhoud
+1227;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;APK-datum verlopen van kenteken BD-844-B;1;1011;;BD-844-B;260127;;;APK
+1229;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;Onderhoud XG XY beurt (1ste jaar) voor kenteken BD-844-B;18;379;;BD-844-B;260127;;;Onderhoud
+1282;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;CFK Keuring voor kenteken OS-23-LZ;18;431;;OS-23-LZ;BT75;;;CFK
+1283;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;CFK Keuring voor kenteken OS-24-LZ;18;432;;OS-24-LZ;BT76;;;CFK
+1284;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;CFK Keuring voor kenteken OS-25-LZ;18;433;;OS-25-LZ;BT77;;;CFK
+1289;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;CFK Keuring voor kenteken OS-71-TY;18;438;;OS-71-TY;BT82;;;CFK
+1248;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;CFK Keuring voor kenteken OV-10-FG;18;397;;OV-10-FG;BT112;;;CFK
+1249;Werkplaats;Wagenpark Boom Transport BV;26/01/2027 00:00:00;26/01/2027 00:00:00;CFK Keuring voor kenteken OV-11-FG;18;398;;OV-11-FG;BT113;;;CFK
+471;Werkplaats;Wagenpark Boom Transport BV;28/01/2027 00:00:00;28/01/2027 00:00:00;Tachograaf-datum verlopen van kenteken 65-BZX-7;7;346;;65-BZX-7;25124;;;Tachograaf
+121;Werkplaats;Wagenpark Boom Transport BV;29/01/2027 00:00:00;29/01/2027 00:00:00;APK-datum verlopen van kenteken 26-BXH-7;1;60;;26-BXH-7;24279;;;APK
+983;Werkplaats;Wagenpark Boom Transport BV;29/01/2027 00:00:00;29/01/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 26-BXH-7;18;139;;26-BXH-7;24279;;;Onderhoud
+469;Werkplaats;Wagenpark Boom Transport BV;29/01/2027 00:00:00;29/01/2027 00:00:00;Tachograaf-datum verlopen van kenteken 64-BZX-7;7;345;;64-BZX-7;25123;;;Tachograaf
+1348;Werkplaats;Wagenpark Boom Transport BV;31/01/2027 00:00:00;31/01/2027 00:00:00;Oplegger beurt voor kenteken OX-61-HP;18;476;;OX-61-HP;BT132;;;Oplegger
+1367;Werkplaats;Wagenpark Boom Transport BV;31/01/2027 00:00:00;31/01/2027 00:00:00;Oplegger beurt voor kenteken OX-62-HP;18;489;;OX-62-HP;BT133;;;Oplegger
+1353;Werkplaats;Wagenpark Boom Transport BV;31/01/2027 00:00:00;31/01/2027 00:00:00;Oplegger beurt voor kenteken OX-63-HP;18;480;;OX-63-HP;BT134;;;Oplegger
+1372;Werkplaats;Wagenpark Boom Transport BV;31/01/2027 00:00:00;31/01/2027 00:00:00;Oplegger beurt voor kenteken OX-64-HP;18;493;;OX-64-HP;BT135;;;Oplegger
+1377;Werkplaats;Wagenpark Boom Transport BV;31/01/2027 00:00:00;31/01/2027 00:00:00;Oplegger beurt voor kenteken OX-65-HP;18;497;;OX-65-HP;BT136;;;Oplegger
+1285;Werkplaats;Wagenpark Boom Transport BV;02/02/2027 00:00:00;02/02/2027 00:00:00;CFK Keuring voor kenteken OS-26-LZ;18;434;;OS-26-LZ;BT78;;;CFK
+1250;Werkplaats;Wagenpark Boom Transport BV;02/02/2027 00:00:00;02/02/2027 00:00:00;CFK Keuring voor kenteken OV-12-FG;18;399;;OV-12-FG;BT114;;;CFK
+1194;Werkplaats;Wagenpark Boom Transport BV;12/02/2027 00:00:00;12/02/2027 00:00:00;Oplegger beurt voor kenteken OS-04-XJ;18;349;;OS-04-XJ;BT86;;;Oplegger
+1196;Werkplaats;Wagenpark Boom Transport BV;12/02/2027 08:00:00;12/02/2027 08:00:00;Oplegger beurt voor kenteken OS-05-XJ;18;351;;OS-05-XJ;BT87;;;Oplegger
+1202;Werkplaats;Wagenpark Boom Transport BV;12/02/2027 09:00:00;12/02/2027 09:00:00;Oplegger beurt voor kenteken OS-08-XJ;18;357;;OS-08-XJ;BT90;;;Oplegger
+323;Werkplaats;Wagenpark Boom Transport BV;13/02/2027 00:00:00;13/02/2027 00:00:00;APK-datum verlopen van kenteken OT-45-TD;1;312;;OT-45-TD;BT104;;;APK
+1096;Werkplaats;Wagenpark Boom Transport BV;13/02/2027 00:00:00;13/02/2027 00:00:00;Koeler B beurt voor kenteken OT-45-TD;18;251;;OT-45-TD;BT104;;;Koeler
+325;Werkplaats;Boom Transport BV;13/02/2027 00:00:00;13/02/2027 00:00:00;APK-datum verlopen van kenteken OT-46-TD;1;313;;OT-46-TD;BT105;;;APK
+1098;Werkplaats;Boom Transport BV;13/02/2027 00:00:00;13/02/2027 00:00:00;Koeler B beurt voor kenteken OT-46-TD;18;253;;OT-46-TD;BT105;;;Koeler
+329;Werkplaats;Wagenpark Boom Transport BV;13/02/2027 00:00:00;13/02/2027 00:00:00;APK-datum verlopen van kenteken OT-47-TD;1;314;;OT-47-TD;BT106;;;APK
+1100;Werkplaats;Wagenpark Boom Transport BV;13/02/2027 00:00:00;13/02/2027 00:00:00;Koeler B beurt voor kenteken OT-47-TD;18;255;;OT-47-TD;BT106;;;Koeler
+1099;Werkplaats;Wagenpark Boom Transport BV;13/02/2027 08:00:00;13/02/2027 08:00:00;Oplegger beurt voor kenteken OT-46-TD;18;254;;OT-46-TD;BT105;;;Oplegger
+1097;Werkplaats;Wagenpark Boom Transport BV;13/02/2027 09:00:00;13/02/2027 09:00:00;Oplegger beurt voor kenteken OT-45-TD;18;252;;OT-45-TD;BT104;;;Oplegger
+1101;Werkplaats;Wagenpark Boom Transport BV;13/02/2027 14:53:00;13/02/2027 14:53:00;Oplegger beurt voor kenteken OT-47-TD;18;256;;OT-47-TD;BT106;;;Oplegger
+163;Werkplaats;Boom Transport BV;14/02/2027 00:00:00;14/02/2027 00:00:00;APK-datum verlopen van kenteken VTL-06-X;1;177;;VTL-06-X;;;;APK
+483;Werkplaats;Wagenpark Boom Transport BV;17/02/2027 00:00:00;17/02/2027 00:00:00;APK-datum verlopen van kenteken 08-BZZ-7;1;348;;08-BZZ-7;25302;;;APK
+968;Werkplaats;Boom Transport BV;17/02/2027 00:00:00;17/02/2027 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken 08-BZZ-7;18;124;;08-BZZ-7;25302;;;Onderhoud
+971;Werkplaats;Wagenpark Boom Transport BV;17/02/2027 00:00:00;17/02/2027 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken 08-BZZ-7;18;127;;08-BZZ-7;25302;;;Onderhoud
+480;Werkplaats;Wagenpark Boom Transport BV;17/02/2027 00:00:00;17/02/2027 00:00:00;APK-datum verlopen van kenteken 09-BZZ-7;1;349;;09-BZZ-7;25303;;;APK
+974;Werkplaats;Wagenpark Boom Transport BV;17/02/2027 00:00:00;17/02/2027 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken 09-BZZ-7;18;130;;09-BZZ-7;25303;;;Onderhoud
+1039;Werkplaats;Wagenpark Boom Transport BV;17/02/2027 11:00:00;17/02/2027 11:00:00;Onderhoud Q beurt voor kenteken 09-BZZ-7;18;195;;09-BZZ-7;25303;;;Onderhoud
+1200;Werkplaats;Wagenpark Boom Transport BV;18/02/2027 00:00:00;18/02/2027 00:00:00;Oplegger beurt voor kenteken OS-07-XJ;18;355;;OS-07-XJ;BT89;;;Oplegger
+484;Werkplaats;Wagenpark Boom Transport BV;19/02/2027 00:00:00;19/02/2027 00:00:00;Tachograaf-datum verlopen van kenteken 08-BZZ-7;7;348;;08-BZZ-7;25302;;;Tachograaf
+479;Werkplaats;Wagenpark Boom Transport BV;19/02/2027 00:00:00;19/02/2027 00:00:00;Tachograaf-datum verlopen van kenteken 09-BZZ-7;7;349;;09-BZZ-7;25303;;;Tachograaf
+1205;Werkplaats;Wagenpark Boom Transport BV;23/02/2027 09:00:00;23/02/2027 09:00:00;Oplegger beurt voor kenteken OS-09-XJ;18;360;;OS-09-XJ;BT91;;;Oplegger
+1198;Werkplaats;Wagenpark Boom Transport BV;25/02/2027 08:00:00;25/02/2027 08:00:00;Oplegger beurt voor kenteken OS-06-XJ;18;353;;OS-06-XJ;BT88;;;Oplegger
+1054;Werkplaats;Wagenpark Boom Transport BV;02/03/2027 00:00:00;02/03/2027 00:00:00;Onderhoud Q beurt voor kenteken 44-BZF-9;18;210;;44-BZF-9;24908;;;Onderhoud
+1309;Werkplaats;Wagenpark Boom Transport BV;02/03/2027 00:00:00;02/03/2027 00:00:00;Alarm Keuring voor kenteken BD-888-F;108;1006;;BD-888-F;260224;;;Alarm
+1245;Werkplaats;Wagenpark Boom Transport BV;02/03/2027 00:00:00;02/03/2027 00:00:00;CFK Keuring voor kenteken OT-21-SN;18;394;;OT-21-SN;BT109;;;CFK
+1255;Werkplaats;Wagenpark Boom Transport BV;02/03/2027 00:00:00;02/03/2027 00:00:00;CFK Keuring voor kenteken OV-02-RY;18;404;;OV-02-RY;BT120;;;CFK
+1257;Werkplaats;Wagenpark Boom Transport BV;02/03/2027 00:00:00;02/03/2027 00:00:00;CFK Keuring voor kenteken OV-33-SH;18;406;;OV-33-SH;BT122;;;CFK
+1258;Werkplaats;Wagenpark Boom Transport BV;02/03/2027 00:00:00;02/03/2027 00:00:00;CFK Keuring voor kenteken OV-34-SH;18;407;;OV-34-SH;BT123;;;CFK
+1259;Werkplaats;Wagenpark Boom Transport BV;02/03/2027 00:00:00;02/03/2027 00:00:00;CFK Keuring voor kenteken OV-35-SH;18;408;;OV-35-SH;BT124;;;CFK
+925;Werkplaats;Wagenpark Boom Transport BV;05/03/2027 00:00:00;05/03/2027 00:00:00;APK-datum verlopen van kenteken BD-888-F;1;1006;;BD-888-F;260224;;;APK
+1024;Werkplaats;Wagenpark Boom Transport BV;05/03/2027 00:00:00;05/03/2027 00:00:00;Onderhoud XG XY beurt (1ste jaar) voor kenteken BD-888-F;18;180;;BD-888-F;260224;;;Onderhoud
+926;Werkplaats;Wagenpark Boom Transport BV;05/03/2027 00:00:00;05/03/2027 00:00:00;APK-datum verlopen van kenteken BD-889-F;1;1007;;BD-889-F;260225;;;APK
+1028;Werkplaats;Wagenpark Boom Transport BV;05/03/2027 00:00:00;05/03/2027 00:00:00;Onderhoud XG XY beurt (1ste jaar) voor kenteken BD-889-F;18;184;;BD-889-F;260225;;;Onderhoud
+927;Werkplaats;Wagenpark Boom Transport BV;05/03/2027 00:00:00;05/03/2027 00:00:00;APK-datum verlopen van kenteken BD-890-F;1;1008;;BD-890-F;260226;;;APK
+1031;Werkplaats;Wagenpark Boom Transport BV;05/03/2027 00:00:00;05/03/2027 00:00:00;Onderhoud XG XY beurt (1ste jaar) voor kenteken BD-890-F;18;187;;BD-890-F;260226;;;Onderhoud
+1160;Werkplaats;Wagenpark Boom Transport BV;07/03/2027 08:00:00;07/03/2027 08:00:00;Oplegger beurt voor kenteken OP-25-YJ;18;315;;OP-25-YJ;BT63;;;Oplegger
+1308;Werkplaats;Wagenpark Boom Transport BV;09/03/2027 00:00:00;09/03/2027 00:00:00;Alarm Keuring voor kenteken BD-889-F;108;1007;;BD-889-F;260225;;;Alarm
+1307;Werkplaats;Wagenpark Boom Transport BV;11/03/2027 00:00:00;11/03/2027 00:00:00;Alarm Keuring voor kenteken BD-890-F;108;1008;;BD-890-F;260226;;;Alarm
+1155;Werkplaats;Wagenpark Boom Transport BV;11/03/2027 11:00:00;11/03/2027 11:00:00;Oplegger beurt voor kenteken OP-31-YJ;18;310;;OP-31-YJ;BT68;;;Oplegger
+1159;Werkplaats;Wagenpark Boom Transport BV;12/03/2027 08:00:00;12/03/2027 08:00:00;Oplegger beurt voor kenteken OP-26-YJ;18;314;;OP-26-YJ;BT64;;;Oplegger
+218;Werkplaats;Wagenpark Boom Transport BV;16/03/2027 00:00:00;16/03/2027 00:00:00;APK-datum verlopen van kenteken OP-27-YJ;1;273;;OP-27-YJ;BT65;;;APK
+838;Werkplaats;Wagenpark Boom Transport BV;16/03/2027 00:00:00;16/03/2027 00:00:00;Koeler A beurt voor kenteken OP-27-YJ;18;83;;OP-27-YJ;BT65;;;Koeler
+1158;Werkplaats;Wagenpark Boom Transport BV;16/03/2027 08:00:00;16/03/2027 08:00:00;Oplegger beurt voor kenteken OP-27-YJ;18;313;;OP-27-YJ;BT65;;;Oplegger
+1157;Werkplaats;Wagenpark Boom Transport BV;18/03/2027 09:00:00;18/03/2027 09:00:00;Oplegger beurt voor kenteken OP-29-YJ;18;312;;OP-29-YJ;BT66;;;Oplegger
+673;Werkplaats;Wagenpark Boom Transport BV;20/03/2027 00:00:00;20/03/2027 00:00:00;APK-datum verlopen van kenteken OV-02-RY;1;809;;OV-02-RY;BT120;;;APK
+1128;Werkplaats;Wagenpark Boom Transport BV;20/03/2027 00:00:00;20/03/2027 00:00:00;Koeler B beurt voor kenteken OV-02-RY;18;283;;OV-02-RY;BT120;;;Koeler
+675;Werkplaats;Wagenpark Boom Transport BV;20/03/2027 00:00:00;20/03/2027 00:00:00;APK-datum verlopen van kenteken OV-03-RY;1;810;;OV-03-RY;BT121;;;APK
+1130;Werkplaats;Wagenpark Boom Transport BV;20/03/2027 00:00:00;20/03/2027 00:00:00;Koeler B beurt voor kenteken OV-03-RY;18;285;;OV-03-RY;BT121;;;Koeler
+1131;Werkplaats;Wagenpark Boom Transport BV;20/03/2027 08:00:00;20/03/2027 08:00:00;Oplegger beurt voor kenteken OV-03-RY;18;286;;OV-03-RY;BT121;;;Oplegger
+1129;Werkplaats;Wagenpark Boom Transport BV;20/03/2027 09:00:00;20/03/2027 09:00:00;Oplegger beurt voor kenteken OV-02-RY;18;284;;OV-02-RY;BT120;;;Oplegger
+1299;Werkplaats;Wagenpark Boom Transport BV;23/03/2027 00:00:00;23/03/2027 00:00:00;CFK Keuring voor kenteken OT-47-PP;18;448;;OT-47-PP;BT92;;;CFK
+378;Werkplaats;Wagenpark Boom Transport BV;25/03/2027 00:00:00;25/03/2027 00:00:00;APK-datum verlopen van kenteken OV-16-GY;1;340;;OV-16-GY;BT119;;;APK
+1126;Werkplaats;Wagenpark Boom Transport BV;25/03/2027 00:00:00;25/03/2027 00:00:00;Koeler B beurt voor kenteken OV-16-GY;18;281;;OV-16-GY;BT119;;;Koeler
+1127;Werkplaats;Wagenpark Boom Transport BV;25/03/2027 12:00:00;25/03/2027 12:00:00;Oplegger beurt voor kenteken OV-16-GY;18;282;;OV-16-GY;BT119;;;Oplegger
+1209;Werkplaats;Wagenpark Boom Transport BV;29/03/2027 08:00:00;29/03/2027 08:00:00;Oplegger beurt voor kenteken OT-48-PP;18;364;;OT-48-PP;BT93;;;Oplegger
+677;Werkplaats;Wagenpark Boom Transport BV;02/04/2027 00:00:00;02/04/2027 00:00:00;APK-datum verlopen van kenteken OV-33-SH;1;811;;OV-33-SH;BT122;;;APK
+1132;Werkplaats;Wagenpark Boom Transport BV;02/04/2027 00:00:00;02/04/2027 00:00:00;Koeler B beurt voor kenteken OV-33-SH;18;287;;OV-33-SH;BT122;;;Koeler
+679;Werkplaats;Wagenpark Boom Transport BV;02/04/2027 00:00:00;02/04/2027 00:00:00;APK-datum verlopen van kenteken OV-34-SH;1;812;;OV-34-SH;BT123;;;APK
+1134;Werkplaats;Wagenpark Boom Transport BV;02/04/2027 00:00:00;02/04/2027 00:00:00;Koeler B beurt voor kenteken OV-34-SH;18;289;;OV-34-SH;BT123;;;Koeler
+681;Werkplaats;Wagenpark Boom Transport BV;02/04/2027 00:00:00;02/04/2027 00:00:00;APK-datum verlopen van kenteken OV-35-SH;1;813;;OV-35-SH;BT124;;;APK
+1136;Werkplaats;Wagenpark Boom Transport BV;02/04/2027 00:00:00;02/04/2027 00:00:00;Koeler B beurt voor kenteken OV-35-SH;18;291;;OV-35-SH;BT124;;;Koeler
+1137;Werkplaats;Wagenpark Boom Transport BV;02/04/2027 09:00:00;02/04/2027 09:00:00;Oplegger beurt voor kenteken OV-35-SH;18;292;;OV-35-SH;BT124;;;Oplegger
+1133;Werkplaats;Wagenpark Boom Transport BV;02/04/2027 10:00:00;02/04/2027 10:00:00;Oplegger beurt voor kenteken OV-33-SH;18;288;;OV-33-SH;BT122;;;Oplegger
+1135;Werkplaats;Wagenpark Boom Transport BV;02/04/2027 12:15:00;02/04/2027 12:15:00;Oplegger beurt voor kenteken OV-34-SH;18;290;;OV-34-SH;BT123;;;Oplegger
+162;Werkplaats;Wagenpark Boom Transport BV;08/04/2027 00:00:00;08/04/2027 00:00:00;Tachograaf-datum verlopen van kenteken BR-XX-19;7;176;;BR-XX-19;1219;;;Tachograaf
+161;Werkplaats;Wagenpark Boom Transport BV;13/04/2027 00:00:00;13/04/2027 00:00:00;APK-datum verlopen van kenteken BR-XX-19;1;176;;BR-XX-19;1219;;;APK
+374;Werkplaats;Boom Transport BV;15/04/2027 00:00:00;15/04/2027 00:00:00;APK-datum verlopen van kenteken OV-22-HJ;1;336;;OV-22-HJ;BT115;;;APK
+1118;Werkplaats;Boom Transport BV;15/04/2027 00:00:00;15/04/2027 00:00:00;Koeler B beurt voor kenteken OV-22-HJ;18;273;;OV-22-HJ;BT115;;;Koeler
+375;Werkplaats;Wagenpark Boom Transport BV;15/04/2027 00:00:00;15/04/2027 00:00:00;APK-datum verlopen van kenteken OV-23-HJ;1;337;;OV-23-HJ;BT116;;;APK
+1120;Werkplaats;Wagenpark Boom Transport BV;15/04/2027 00:00:00;15/04/2027 00:00:00;Koeler B beurt voor kenteken OV-23-HJ;18;275;;OV-23-HJ;BT116;;;Koeler
+376;Werkplaats;Wagenpark Boom Transport BV;15/04/2027 00:00:00;15/04/2027 00:00:00;APK-datum verlopen van kenteken OV-24-HJ;1;338;;OV-24-HJ;BT117;;;APK
+1122;Werkplaats;Wagenpark Boom Transport BV;15/04/2027 00:00:00;15/04/2027 00:00:00;Koeler B beurt voor kenteken OV-24-HJ;18;277;;OV-24-HJ;BT117;;;Koeler
+377;Werkplaats;Wagenpark Boom Transport BV;15/04/2027 00:00:00;15/04/2027 00:00:00;APK-datum verlopen van kenteken OV-25-HJ;1;339;;OV-25-HJ;BT118;;;APK
+1124;Werkplaats;Wagenpark Boom Transport BV;15/04/2027 00:00:00;15/04/2027 00:00:00;Koeler B beurt voor kenteken OV-25-HJ;18;279;;OV-25-HJ;BT118;;;Koeler
+1121;Werkplaats;Wagenpark Boom Transport BV;15/04/2027 09:00:00;15/04/2027 09:00:00;Oplegger beurt voor kenteken OV-23-HJ;18;276;;OV-23-HJ;BT116;;;Oplegger
+1119;Werkplaats;Wagenpark Boom Transport BV;15/04/2027 10:00:00;15/04/2027 10:00:00;Oplegger beurt voor kenteken OV-22-HJ;18;274;;OV-22-HJ;BT115;;;Oplegger
+1125;Werkplaats;Wagenpark Boom Transport BV;15/04/2027 11:00:00;15/04/2027 11:00:00;Oplegger beurt voor kenteken OV-25-HJ;18;280;;OV-25-HJ;BT118;;;Oplegger
+1281;Werkplaats;Wagenpark Boom Transport BV;19/04/2027 00:00:00;19/04/2027 00:00:00;CFK Keuring voor kenteken OS-26-LV;18;430;;OS-26-LV;BT74;;;CFK
+1291;Werkplaats;Wagenpark Boom Transport BV;20/04/2027 08:00:00;20/04/2027 08:00:00;CFK Keuring voor kenteken OS-73-TY;18;440;;OS-73-TY;BT84;;;CFK
+1244;Werkplaats;Wagenpark Boom Transport BV;20/04/2027 08:00:00;20/04/2027 08:00:00;CFK Keuring voor kenteken OT-20-SN;18;393;;OT-20-SN;BT108;;;CFK
+1303;Werkplaats;Wagenpark Boom Transport BV;20/04/2027 08:00:00;20/04/2027 08:00:00;CFK Keuring voor kenteken OT-51-PP;18;452;;OT-51-PP;BT96;;;CFK
+1256;Werkplaats;Wagenpark Boom Transport BV;20/04/2027 08:00:00;20/04/2027 08:00:00;CFK Keuring voor kenteken OV-03-RY;18;405;;OV-03-RY;BT121;;;CFK
+1243;Werkplaats;Wagenpark Boom Transport BV;20/04/2027 08:00:00;20/04/2027 08:00:00;CFK Keuring voor kenteken OV-23-HJ;18;392;;OV-23-HJ;BT116;;;CFK
+1266;Werkplaats;Wagenpark Boom Transport BV;20/04/2027 08:00:00;20/04/2027 08:00:00;CFK Keuring voor kenteken OV-96-TB;18;415;;OV-96-TB;BT131;;;CFK
+360;Werkplaats;Wagenpark Boom Transport BV;23/04/2027 00:00:00;23/04/2027 00:00:00;APK-datum verlopen van kenteken 50-BXR-8;1;326;;50-BXR-8;24300;;;APK
+960;Werkplaats;Wagenpark Boom Transport BV;23/04/2027 00:00:00;23/04/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 50-BXR-8;18;119;;50-BXR-8;24300;;;Onderhoud
+358;Werkplaats;Wagenpark Boom Transport BV;23/04/2027 00:00:00;23/04/2027 00:00:00;APK-datum verlopen van kenteken 51-BXR-8;1;325;;51-BXR-8;24301;;;APK
+995;Werkplaats;Wagenpark Boom Transport BV;23/04/2027 00:00:00;23/04/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 51-BXR-8;18;151;;51-BXR-8;24301;;;Onderhoud
+359;Werkplaats;Wagenpark Boom Transport BV;23/04/2027 00:00:00;23/04/2027 00:00:00;APK-datum verlopen van kenteken 53-BXR-8;1;327;;53-BXR-8;24302;;;APK
+997;Werkplaats;Wagenpark Boom Transport BV;23/04/2027 00:00:00;23/04/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 53-BXR-8;18;153;;53-BXR-8;24302;;;Onderhoud
+361;Werkplaats;Wagenpark Boom Transport BV;23/04/2027 00:00:00;23/04/2027 00:00:00;APK-datum verlopen van kenteken 56-BXR-8;1;328;;56-BXR-8;24303;;;APK
+999;Werkplaats;Wagenpark Boom Transport BV;23/04/2027 00:00:00;23/04/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 56-BXR-8;18;155;;56-BXR-8;24303;;;Onderhoud
+362;Werkplaats;Wagenpark Boom Transport BV;23/04/2027 00:00:00;23/04/2027 00:00:00;APK-datum verlopen van kenteken 57-BXR-8;1;329;;57-BXR-8;24304;;;APK
+1001;Werkplaats;Wagenpark Boom Transport BV;23/04/2027 00:00:00;23/04/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 57-BXR-8;18;157;;57-BXR-8;24304;;;Onderhoud
+470;Werkplaats;Wagenpark Boom Transport BV;29/04/2027 00:00:00;29/04/2027 00:00:00;APK-datum verlopen van kenteken 64-BZX-7;1;345;;64-BZX-7;25123;;;APK
+206;Werkplaats;Wagenpark Boom Transport BV;29/04/2027 00:00:00;29/04/2027 00:00:00;APK-datum verlopen van kenteken ON-50-RK;1;267;;ON-50-RK;BT59;;;APK
+738;Werkplaats;Wagenpark Boom Transport BV;29/04/2027 00:00:00;29/04/2027 00:00:00;Koeler A beurt voor kenteken ON-50-RK;18;12;;ON-50-RK;BT59;;;Koeler
+1164;Werkplaats;Wagenpark Boom Transport BV;29/04/2027 10:00:00;29/04/2027 10:00:00;Oplegger beurt voor kenteken ON-50-RK;18;319;;ON-50-RK;BT59;;;Oplegger
+897;Werkplaats;Wagenpark Boom Transport BV;29/04/2027 10:00:00;29/04/2027 10:00:00;Koeler A beurt voor kenteken ON-51-RK;18;105;;ON-51-RK;BT60;;;Koeler
+1163;Werkplaats;Wagenpark Boom Transport BV;29/04/2027 10:00:00;29/04/2027 10:00:00;Oplegger beurt voor kenteken ON-51-RK;18;318;;ON-51-RK;BT60;;;Oplegger
+1294;Werkplaats;Wagenpark Boom Transport BV;30/04/2027 00:00:00;30/04/2027 00:00:00;CFK Keuring voor kenteken OS-05-XJ;18;443;;OS-05-XJ;BT87;;;CFK
+240;Werkplaats;Boom Transport BV;01/05/2027 00:00:00;01/05/2027 00:00:00;FRC keuring voor kenteken OS-04-XJ;101;294;;OS-04-XJ;BT86;;;FRC
+245;Werkplaats;Boom Transport BV;01/05/2027 00:00:00;01/05/2027 00:00:00;FRC keuring voor kenteken OS-05-XJ;101;295;;OS-05-XJ;BT87;;;FRC
+288;Werkplaats;Boom Transport BV;01/05/2027 00:00:00;01/05/2027 00:00:00;FRC keuring voor kenteken OS-71-TY;101;290;;OS-71-TY;BT82;;;FRC
+292;Werkplaats;Boom Transport BV;01/05/2027 00:00:00;01/05/2027 00:00:00;FRC keuring voor kenteken OS-72-TY;101;291;;OS-72-TY;BT83;;;FRC
+296;Werkplaats;Boom Transport BV;01/05/2027 00:00:00;01/05/2027 00:00:00;FRC keuring voor kenteken OS-73-TY;101;292;;OS-73-TY;BT84;;;FRC
+300;Werkplaats;Boom Transport BV;01/05/2027 00:00:00;01/05/2027 00:00:00;FRC keuring voor kenteken OS-74-TY;101;293;;OS-74-TY;BT85;;;FRC
+304;Werkplaats;Boom Transport BV;01/05/2027 00:00:00;01/05/2027 00:00:00;FRC keuring voor kenteken OS-93-TP;101;288;;OS-93-TP;BT80;;;FRC
+308;Werkplaats;Boom Transport BV;01/05/2027 00:00:00;01/05/2027 00:00:00;FRC keuring voor kenteken OS-94-TP;101;289;;OS-94-TP;BT81;;;FRC
+209;Werkplaats;Wagenpark Boom Transport BV;04/05/2027 00:00:00;04/05/2027 00:00:00;APK-datum verlopen van kenteken ON-51-RK;1;268;;ON-51-RK;BT60;;;APK
+683;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 00:00:00;08/05/2027 00:00:00;APK-datum verlopen van kenteken OV-59-SY;1;814;;OV-59-SY;BT125;;;APK
+1138;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 00:00:00;08/05/2027 00:00:00;Koeler A beurt voor kenteken OV-59-SY;18;293;;OV-59-SY;BT125;;;Koeler
+685;Werkplaats;Boom Transport BV.;08/05/2027 00:00:00;08/05/2027 00:00:00;APK-datum verlopen van kenteken OV-60-SY;1;815;;OV-60-SY;BT126;;;APK
+1141;Werkplaats;Boom Transport BV.;08/05/2027 00:00:00;08/05/2027 00:00:00;Koeler B beurt voor kenteken OV-60-SY;18;296;;OV-60-SY;BT126;;;Koeler
+687;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 00:00:00;08/05/2027 00:00:00;APK-datum verlopen van kenteken OV-61-SY;1;816;;OV-61-SY;BT127;;;APK
+740;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 00:00:00;08/05/2027 00:00:00;Koeler A beurt voor kenteken OV-61-SY;18;14;;OV-61-SY;BT127;;;Koeler
+689;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 00:00:00;08/05/2027 00:00:00;APK-datum verlopen van kenteken OV-62-SY;1;817;;OV-62-SY;BT128;;;APK
+782;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 00:00:00;08/05/2027 00:00:00;Koeler A beurt voor kenteken OV-62-SY;18;45;;OV-62-SY;BT128;;;Koeler
+691;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 00:00:00;08/05/2027 00:00:00;APK-datum verlopen van kenteken OV-63-SY;1;818;;OV-63-SY;BT129;;;APK
+826;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 00:00:00;08/05/2027 00:00:00;Koeler A beurt voor kenteken OV-63-SY;18;75;;OV-63-SY;BT129;;;Koeler
+1140;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 08:00:00;08/05/2027 08:00:00;Oplegger beurt voor kenteken OV-59-SY;18;295;;OV-59-SY;BT125;;;Oplegger
+1142;Werkplaats;Boom Transport BV.;08/05/2027 08:00:00;08/05/2027 08:00:00;Oplegger beurt voor kenteken OV-60-SY;18;297;;OV-60-SY;BT126;;;Oplegger
+1144;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 08:00:00;08/05/2027 08:00:00;Oplegger beurt voor kenteken OV-61-SY;18;299;;OV-61-SY;BT127;;;Oplegger
+1146;Werkplaats;Wagenpark Boom Transport BV;08/05/2027 09:00:00;08/05/2027 09:00:00;Oplegger beurt voor kenteken OV-62-SY;18;301;;OV-62-SY;BT128;;;Oplegger
+1228;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;Onderhoud Q beurt voor kenteken BD-844-B;18;378;;BD-844-B;260127;;;Onderhoud
+1272;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;CFK Keuring voor kenteken OP-46-HS;18;421;;OP-46-HS;BT61;;;CFK
+1287;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;CFK Keuring voor kenteken OS-93-TP;18;436;;OS-93-TP;BT80;;;CFK
+1093;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;Oplegger beurt voor kenteken OT-21-PS;18;248;;OT-21-PS;BT102;;;Oplegger
+1207;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;Oplegger beurt voor kenteken OT-47-PP;18;362;;OT-47-PP;BT92;;;Oplegger
+1213;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;Oplegger beurt voor kenteken OT-50-PP;18;368;;OT-50-PP;BT95;;;Oplegger
+1215;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;Oplegger beurt voor kenteken OT-51-PP;18;370;;OT-51-PP;BT96;;;Oplegger
+1222;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;Oplegger beurt voor kenteken OT-54-PP;18;377;;OT-54-PP;BT99;;;Oplegger
+1088;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;Oplegger beurt voor kenteken OT-55-PP;18;243;;OT-55-PP;BT100;;;Oplegger
+1252;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;CFK Keuring voor kenteken OV-24-HJ;18;401;;OV-24-HJ;BT117;;;CFK
+1253;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;CFK Keuring voor kenteken OV-25-HJ;18;402;;OV-25-HJ;BT118;;;CFK
+1263;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;CFK Keuring voor kenteken OV-62-SY;18;412;;OV-62-SY;BT128;;;CFK
+1264;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 08:00:00;11/05/2027 08:00:00;CFK Keuring voor kenteken OV-63-SY;18;413;;OV-63-SY;BT129;;;CFK
+1090;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 09:00:00;11/05/2027 09:00:00;Oplegger beurt voor kenteken OT-20-PS;18;245;;OT-20-PS;BT101;;;Oplegger
+1211;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 09:00:00;11/05/2027 09:00:00;Oplegger beurt voor kenteken OT-49-PP;18;366;;OT-49-PP;BT94;;;Oplegger
+1219;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 10:00:00;11/05/2027 10:00:00;Oplegger beurt voor kenteken OT-53-PP;18;374;;OT-53-PP;BT98;;;Oplegger
+1217;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 14:43:00;11/05/2027 14:43:00;Oplegger beurt voor kenteken OT-52-PP;18;372;;OT-52-PP;BT97;;;Oplegger
+1095;Werkplaats;Wagenpark Boom Transport BV;11/05/2027 15:40:00;11/05/2027 15:40:00;Oplegger beurt voor kenteken OT-22-PS;18;250;;OT-22-PS;BT103;;;Oplegger
+1332;Werkplaats;Wagenpark Boom Transport BV;12/05/2027 00:00:00;12/05/2027 00:00:00;CFK Keuring voor kenteken OX-76-GH;18;468;;OX-76-GH;BT137;;;CFK
+1327;Werkplaats;Wagenpark Boom Transport BV;19/05/2027 00:00:00;19/05/2027 00:00:00;CFK Keuring voor kenteken OX-77-GH;18;464;;OX-77-GH;BT138;;;CFK
+1337;Werkplaats;Wagenpark Boom Transport BV;19/05/2027 00:00:00;19/05/2027 00:00:00;CFK Keuring voor kenteken OX-95-GN;18;472;;OX-95-GN;BT139;;;CFK
+1359;Werkplaats;Wagenpark Boom Transport BV;19/05/2027 00:00:00;19/05/2027 00:00:00;CFK Keuring voor kenteken OX-97-GN;18;485;;OX-97-GN;BT141;;;CFK
+1223;Werkplaats;;24/05/2027 00:00:00;24/05/2027 00:00:00;APK-datum verlopen van kenteken 35-BSZ-8;1;1010;;35-BSZ-8;23199;;;APK
+1343;Werkplaats;Wagenpark Boom Transport BV;27/05/2027 00:00:00;27/05/2027 00:00:00;CFK Keuring voor kenteken OX-76-GH;18;473;;OX-76-GH;BT137;;;CFK
+1323;Werkplaats;Wagenpark Boom Transport BV;27/05/2027 00:00:00;27/05/2027 00:00:00;CFK Keuring voor kenteken OX-96-GN;18;460;;OX-96-GN;BT140;;;CFK
+187;Werkplaats;Boom Transport BV;01/06/2027 00:00:00;01/06/2027 00:00:00;FRC stickers voor kenteken OL-81-SF;102;278;;OL-81-SF;;;;FRC
+833;Werkplaats;Wagenpark Boom Transport BV;01/06/2027 00:00:00;01/06/2027 00:00:00;Koeler A beurt voor kenteken OS-94-TP;18;80;;OS-94-TP;BT81;;;Koeler
+1184;Werkplaats;Wagenpark Boom Transport BV;01/06/2027 11:00:00;01/06/2027 11:00:00;Oplegger beurt voor kenteken OS-94-TP;18;339;;OS-94-TP;BT81;;;Oplegger
+472;Werkplaats;Wagenpark Boom Transport BV;02/06/2027 00:00:00;02/06/2027 00:00:00;APK-datum verlopen van kenteken 65-BZX-7;1;346;;65-BZX-7;25124;;;APK
+1084;Werkplaats;Wagenpark Boom Transport BV;02/06/2027 00:00:00;02/06/2027 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken 65-BZX-7;18;239;;65-BZX-7;25124;;;Onderhoud
+303;Werkplaats;Wagenpark Boom Transport BV;02/06/2027 00:00:00;02/06/2027 00:00:00;APK-datum verlopen van kenteken OS-93-TP;1;288;;OS-93-TP;BT80;;;APK
+307;Werkplaats;Wagenpark Boom Transport BV;02/06/2027 00:00:00;02/06/2027 00:00:00;APK-datum verlopen van kenteken OS-94-TP;1;289;;OS-94-TP;BT81;;;APK
+1182;Werkplaats;Wagenpark Boom Transport BV;02/06/2027 09:00:00;02/06/2027 09:00:00;Oplegger beurt voor kenteken OS-93-TP;18;337;;OS-93-TP;BT80;;;Oplegger
+631;Werkplaats;Wagenpark Boom Transport BV;03/06/2027 00:00:00;03/06/2027 00:00:00;Tachograaf-datum verlopen van kenteken 44-BZF-9;7;518;;44-BZF-9;24908;;;Tachograaf
+199;Werkplaats;Wagenpark Boom Transport BV;04/06/2027 00:00:00;04/06/2027 00:00:00;APK-datum verlopen van kenteken ON-21-HS;1;264;;ON-21-HS;BT56;;;APK
+1167;Werkplaats;Wagenpark Boom Transport BV;04/06/2027 00:00:00;04/06/2027 00:00:00;Koeler A beurt voor kenteken ON-21-HS;18;322;;ON-21-HS;BT56;;;Koeler
+1168;Werkplaats;Wagenpark Boom Transport BV;04/06/2027 00:00:00;04/06/2027 00:00:00;Oplegger beurt voor kenteken ON-21-HS;18;323;;ON-21-HS;BT56;;;Oplegger
+201;Werkplaats;Wagenpark Boom Transport BV;04/06/2027 00:00:00;04/06/2027 00:00:00;APK-datum verlopen van kenteken ON-22-HS;1;265;;ON-22-HS;BT57;;;APK
+1166;Werkplaats;Wagenpark Boom Transport BV;04/06/2027 08:00:00;04/06/2027 08:00:00;Oplegger beurt voor kenteken ON-22-HS;18;321;;ON-22-HS;BT57;;;Oplegger
+798;Werkplaats;Wagenpark Boom Transport BV;04/06/2027 09:00:00;04/06/2027 09:00:00;Koeler A beurt voor kenteken ON-22-HS;18;57;;ON-22-HS;BT57;;;Koeler
+1328;Werkplaats;Wagenpark Boom Transport BV;08/06/2027 00:00:00;08/06/2027 00:00:00;APK-datum verlopen van kenteken OX-76-GH;1;1102;;OX-76-GH;BT137;;;APK
+1330;Werkplaats;Wagenpark Boom Transport BV;08/06/2027 00:00:00;08/06/2027 00:00:00;Koeler B beurt voor kenteken OX-76-GH;18;466;;OX-76-GH;BT137;;;Koeler
+1333;Werkplaats;Wagenpark Boom Transport BV;08/06/2027 00:00:00;08/06/2027 00:00:00;APK-datum verlopen van kenteken OX-77-GH;1;1100;;OX-77-GH;BT138;;;APK
+1325;Werkplaats;Wagenpark Boom Transport BV;08/06/2027 00:00:00;08/06/2027 00:00:00;Koeler B beurt voor kenteken OX-77-GH;18;462;;OX-77-GH;BT138;;;Koeler
+693;Werkplaats;Wagenpark Boom Transport BV;13/06/2027 00:00:00;13/06/2027 00:00:00;APK-datum verlopen van kenteken OV-95-TB;1;819;;OV-95-TB;BT130;;;APK
+695;Werkplaats;Wagenpark Boom Transport BV;13/06/2027 00:00:00;13/06/2027 00:00:00;APK-datum verlopen van kenteken OV-96-TB;1;820;;OV-96-TB;BT131;;;APK
+786;Werkplaats;Wagenpark Boom Transport BV;13/06/2027 00:00:00;13/06/2027 00:00:00;Koeler A beurt voor kenteken OV-96-TB;18;48;;OV-96-TB;BT131;;;Koeler
+1152;Werkplaats;Wagenpark Boom Transport BV;13/06/2027 08:00:00;13/06/2027 08:00:00;Oplegger beurt voor kenteken OV-96-TB;18;307;;OV-96-TB;BT131;;;Oplegger
+810;Werkplaats;Wagenpark Boom Transport BV;13/06/2027 10:00:00;13/06/2027 10:00:00;Koeler A beurt voor kenteken OV-95-TB;18;64;;OV-95-TB;BT130;;;Koeler
+1319;Werkplaats;Wagenpark Boom Transport BV;17/06/2027 00:00:00;17/06/2027 00:00:00;APK-datum verlopen van kenteken OX-96-GN;1;1104;;OX-96-GN;BT140;;;APK
+1321;Werkplaats;Wagenpark Boom Transport BV;17/06/2027 00:00:00;17/06/2027 00:00:00;Koeler B beurt voor kenteken OX-96-GN;18;458;;OX-96-GN;BT140;;;Koeler
+287;Werkplaats;Wagenpark Boom Transport BV;18/06/2027 00:00:00;18/06/2027 00:00:00;APK-datum verlopen van kenteken OS-71-TY;1;290;;OS-71-TY;BT82;;;APK
+832;Werkplaats;Wagenpark Boom Transport BV;18/06/2027 00:00:00;18/06/2027 00:00:00;Koeler A beurt voor kenteken OS-71-TY;18;79;;OS-71-TY;BT82;;;Koeler
+291;Werkplaats;Wagenpark Boom Transport BV;18/06/2027 00:00:00;18/06/2027 00:00:00;APK-datum verlopen van kenteken OS-72-TY;1;291;;OS-72-TY;BT83;;;APK
+1187;Werkplaats;Wagenpark Boom Transport BV;18/06/2027 00:00:00;18/06/2027 00:00:00;Koeler B beurt voor kenteken OS-72-TY;18;342;;OS-72-TY;BT83;;;Koeler
+295;Werkplaats;Wagenpark Boom Transport BV;18/06/2027 00:00:00;18/06/2027 00:00:00;APK-datum verlopen van kenteken OS-73-TY;1;292;;OS-73-TY;BT84;;;APK
+821;Werkplaats;Wagenpark Boom Transport BV;18/06/2027 00:00:00;18/06/2027 00:00:00;Koeler A beurt voor kenteken OS-73-TY;18;72;;OS-73-TY;BT84;;;Koeler
+299;Werkplaats;Wagenpark Boom Transport BV;18/06/2027 00:00:00;18/06/2027 00:00:00;APK-datum verlopen van kenteken OS-74-TY;1;293;;OS-74-TY;BT85;;;APK
+1191;Werkplaats;Wagenpark Boom Transport BV;18/06/2027 00:00:00;18/06/2027 00:00:00;Koeler B beurt voor kenteken OS-74-TY;18;346;;OS-74-TY;BT85;;;Koeler
+1192;Werkplaats;Wagenpark Boom Transport BV;18/06/2027 08:00:00;18/06/2027 08:00:00;Oplegger beurt voor kenteken OS-74-TY;18;347;;OS-74-TY;BT85;;;Oplegger
+224;Werkplaats;Wagenpark Boom Transport BV;19/06/2027 00:00:00;19/06/2027 00:00:00;APK-datum verlopen van kenteken OP-30-YJ;1;275;;OP-30-YJ;BT67;;;APK
+830;Werkplaats;Wagenpark Boom Transport BV;19/06/2027 11:00:00;19/06/2027 11:00:00;Koeler A beurt voor kenteken OP-30-YJ;18;78;;OP-30-YJ;BT67;;;Koeler
+1178;Werkplaats;Wagenpark Boom Transport BV;22/06/2027 08:00:00;22/06/2027 08:00:00;Oplegger beurt voor kenteken OS-26-LZ;18;333;;OS-26-LZ;BT78;;;Oplegger
+1254;Werkplaats;Wagenpark Boom Transport BV;22/06/2027 08:00:00;22/06/2027 08:00:00;CFK Keuring voor kenteken OV-16-GY;18;403;;OV-16-GY;BT119;;;CFK
+1251;Werkplaats;Wagenpark Boom Transport BV;22/06/2027 08:00:00;22/06/2027 08:00:00;CFK Keuring voor kenteken OV-22-HJ;18;400;;OV-22-HJ;BT115;;;CFK
+1261;Werkplaats;Boom Transport BV.;22/06/2027 08:00:00;22/06/2027 08:00:00;CFK Keuring voor kenteken OV-60-SY;18;410;;OV-60-SY;BT126;;;CFK
+1262;Werkplaats;Wagenpark Boom Transport BV;22/06/2027 08:00:00;22/06/2027 08:00:00;CFK Keuring voor kenteken OV-61-SY;18;411;;OV-61-SY;BT127;;;CFK
+1265;Werkplaats;Wagenpark Boom Transport BV;22/06/2027 08:00:00;22/06/2027 08:00:00;CFK Keuring voor kenteken OV-95-TB;18;414;;OV-95-TB;BT130;;;CFK
+1176;Werkplaats;Wagenpark Boom Transport BV;22/06/2027 09:00:00;22/06/2027 09:00:00;Oplegger beurt voor kenteken OS-25-LZ;18;331;;OS-25-LZ;BT77;;;Oplegger
+125;Werkplaats;Wagenpark Boom Transport BV;24/06/2027 00:00:00;24/06/2027 00:00:00;APK-datum verlopen van kenteken 41-BTB-6;1;62;;41-BTB-6;22137;;;APK
+1278;Werkplaats;Wagenpark Boom Transport BV;29/06/2027 08:00:00;29/06/2027 08:00:00;CFK Keuring voor kenteken OP-30-YJ;18;427;;OP-30-YJ;BT67;;;CFK
+1297;Werkplaats;Wagenpark Boom Transport BV;29/06/2027 08:00:00;29/06/2027 08:00:00;CFK Keuring voor kenteken OS-08-XJ;18;446;;OS-08-XJ;BT90;;;CFK
+1298;Werkplaats;Wagenpark Boom Transport BV;29/06/2027 08:00:00;29/06/2027 08:00:00;CFK Keuring voor kenteken OS-09-XJ;18;447;;OS-09-XJ;BT91;;;CFK
+1292;Werkplaats;Wagenpark Boom Transport BV;29/06/2027 08:00:00;29/06/2027 08:00:00;CFK Keuring voor kenteken OS-74-TY;18;441;;OS-74-TY;BT85;;;CFK
+249;Werkplaats;Boom Transport BV;01/07/2027 00:00:00;01/07/2027 00:00:00;FRC keuring voor kenteken OS-06-XJ;101;296;;OS-06-XJ;BT88;;;FRC
+253;Werkplaats;Boom Transport BV;01/07/2027 00:00:00;01/07/2027 00:00:00;FRC keuring voor kenteken OS-07-XJ;101;297;;OS-07-XJ;BT89;;;FRC
+1042;Werkplaats;Wagenpark Boom Transport BV;02/07/2027 09:00:00;02/07/2027 09:00:00;Onderhoud Q beurt voor kenteken 12-BTS-1;18;198;;12-BTS-1;23195;;;Onderhoud
+1062;Werkplaats;Wagenpark Boom Transport BV;02/07/2027 09:00:00;02/07/2027 09:00:00;Onderhoud Q beurt voor kenteken 75-BZS-6;18;218;;75-BZS-6;24306;;;Onderhoud
+1041;Werkplaats;Wagenpark Boom Transport BV;02/07/2027 10:00:00;02/07/2027 10:00:00;Onderhoud Q beurt voor kenteken 11-BTS-1;18;197;;11-BTS-1;23194;;;Onderhoud
+1315;Werkplaats;Wagenpark Boom Transport BV;02/07/2027 11:00:00;02/07/2027 11:00:00;Onderhoud Q beurt voor kenteken 25-BZS-9;18;456;;25-BZS-9;24305;;;Onderhoud
+1338;Werkplaats;Wagenpark Boom Transport BV;03/07/2027 00:00:00;03/07/2027 00:00:00;APK-datum verlopen van kenteken OX-95-GN;1;1106;;OX-95-GN;BT139;;;APK
+1334;Werkplaats;Wagenpark Boom Transport BV;03/07/2027 00:00:00;03/07/2027 00:00:00;Koeler A beurt voor kenteken OX-95-GN;18;469;;OX-95-GN;BT139;;;Koeler
+1335;Werkplaats;Wagenpark Boom Transport BV;03/07/2027 00:00:00;03/07/2027 00:00:00;Koeler B beurt voor kenteken OX-95-GN;18;470;;OX-95-GN;BT139;;;Koeler
+1355;Werkplaats;Wagenpark Boom Transport BV;03/07/2027 00:00:00;03/07/2027 00:00:00;APK-datum verlopen van kenteken OX-97-GN;1;1111;;OX-97-GN;BT141;;;APK
+1040;Werkplaats;Wagenpark Boom Transport BV;03/07/2027 08:00:00;03/07/2027 08:00:00;Onderhoud Q beurt voor kenteken 10-BTS-1;18;196;;10-BTS-1;23193;;;Onderhoud
+1260;Werkplaats;Wagenpark Boom Transport BV;03/07/2027 17:04:00;03/07/2027 17:04:00;CFK Keuring voor kenteken OV-59-SY;18;409;;OV-59-SY;BT125;;;CFK
+473;Werkplaats;Wagenpark Boom Transport BV;04/07/2027 00:00:00;04/07/2027 00:00:00;APK-datum verlopen van kenteken 99-BZX-6;1;344;;99-BZX-6;25122;;;APK
+1073;Werkplaats;Wagenpark Boom Transport BV;05/07/2027 00:00:00;05/07/2027 00:00:00;Onderhoud Q beurt voor kenteken BD-843-B;18;228;;BD-843-B;260126;;;Onderhoud
+1072;Werkplaats;Wagenpark Boom Transport BV;05/07/2027 09:00:00;05/07/2027 09:00:00;Onderhoud Q beurt voor kenteken BB-079-Z;18;227;;BB-079-Z;251209;;;Onderhoud
+1349;Werkplaats;Wagenpark Boom Transport BV;09/07/2027 00:00:00;09/07/2027 00:00:00;CFK Keuring voor kenteken OX-61-HP;18;477;;OX-61-HP;BT132;;;CFK
+1368;Werkplaats;Wagenpark Boom Transport BV;09/07/2027 00:00:00;09/07/2027 00:00:00;CFK Keuring voor kenteken OX-62-HP;18;490;;OX-62-HP;BT133;;;CFK
+1354;Werkplaats;Wagenpark Boom Transport BV;16/07/2027 00:00:00;16/07/2027 00:00:00;CFK Keuring voor kenteken OX-63-HP;18;481;;OX-63-HP;BT134;;;CFK
+1373;Werkplaats;Wagenpark Boom Transport BV;16/07/2027 00:00:00;16/07/2027 00:00:00;CFK Keuring voor kenteken OX-64-HP;18;494;;OX-64-HP;BT135;;;CFK
+230;Werkplaats;Wagenpark Boom Transport BV;18/07/2027 00:00:00;18/07/2027 00:00:00;APK-datum verlopen van kenteken OP-46-HS;1;269;;OP-46-HS;BT61;;;APK
+233;Werkplaats;Wagenpark Boom Transport BV;18/07/2027 00:00:00;18/07/2027 00:00:00;APK-datum verlopen van kenteken OP-47-HS;1;270;;OP-47-HS;BT62;;;APK
+1035;Werkplaats;Wagenpark Boom Transport BV;18/07/2027 10:00:00;18/07/2027 10:00:00;Onderhoud Q beurt voor kenteken 01-BXH-7;18;191;;01-BXH-7;24200;;;Onderhoud
+787;Werkplaats;Wagenpark Boom Transport BV;18/07/2027 10:00:00;18/07/2027 10:00:00;Koeler A beurt voor kenteken OP-46-HS;18;49;;OP-46-HS;BT61;;;Koeler
+1049;Werkplaats;Wagenpark Boom Transport BV;18/07/2027 11:15:00;18/07/2027 11:15:00;Onderhoud Q beurt voor kenteken 27-BXH-7;18;205;;27-BXH-7;24280;;;Onderhoud
+836;Werkplaats;Wagenpark Boom Transport BV;18/07/2027 14:25:00;18/07/2027 14:25:00;Koeler A beurt voor kenteken OP-47-HS;18;81;;OP-47-HS;BT62;;;Koeler
+1076;Werkplaats;Wagenpark Boom Transport BV;19/07/2027 08:00:00;19/07/2027 08:00:00;Onderhoud Q beurt voor kenteken BB-078-Z;18;231;;BB-078-Z;25129;;;Onderhoud
+1378;Werkplaats;Wagenpark Boom Transport BV;21/07/2027 00:00:00;21/07/2027 00:00:00;CFK Keuring voor kenteken OX-65-HP;18;498;;OX-65-HP;BT136;;;CFK
+1010;Werkplaats;Wagenpark Boom Transport BV;23/07/2027 00:00:00;23/07/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 99-BZX-6;18;166;;99-BZX-6;25122;;;Onderhoud
+1051;Werkplaats;Wagenpark Boom Transport BV;23/07/2027 10:29:00;23/07/2027 10:29:00;Onderhoud Q beurt voor kenteken 39-BXJ-2;18;207;;39-BXJ-2;24282;;;Onderhoud
+1050;Werkplaats;Wagenpark Boom Transport BV;23/07/2027 13:00:00;23/07/2027 13:00:00;Onderhoud Q beurt voor kenteken 28-BXH-7;18;206;;28-BXH-7;203;;;Onderhoud
+1060;Werkplaats;Wagenpark Boom Transport BV;24/07/2027 08:16:00;24/07/2027 08:16:00;Onderhoud Q beurt voor kenteken 74-BTT-8;18;216;;74-BTT-8;23196;;;Onderhoud
+1061;Werkplaats;Wagenpark Boom Transport BV;24/07/2027 09:55:00;24/07/2027 09:55:00;Onderhoud Q beurt voor kenteken 75-BTT-8;18;217;;75-BTT-8;23197;;;Onderhoud
+1063;Werkplaats;Wagenpark Boom Transport BV;26/07/2027 09:00:00;26/07/2027 09:00:00;Onderhoud Q beurt voor kenteken 76-BTT-8;18;219;;76-BTT-8;23198;;;Onderhoud
+1048;Werkplaats;Wagenpark Boom Transport BV;29/07/2027 08:00:00;29/07/2027 08:00:00;Onderhoud Q beurt voor kenteken 26-BXH-7;18;204;;26-BXH-7;24279;;;Onderhoud
+1079;Werkplaats;Wagenpark Boom Transport BV;30/07/2027 00:00:00;30/07/2027 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken 64-BZX-7;18;234;;64-BZX-7;25123;;;Onderhoud
+1345;Werkplaats;Wagenpark Boom Transport BV;31/07/2027 00:00:00;31/07/2027 00:00:00;APK-datum verlopen van kenteken OX-61-HP;1;1113;;OX-61-HP;BT132;;;APK
+1347;Werkplaats;Wagenpark Boom Transport BV;31/07/2027 00:00:00;31/07/2027 00:00:00;Koeler B beurt voor kenteken OX-61-HP;18;475;;OX-61-HP;BT132;;;Koeler
+1364;Werkplaats;Wagenpark Boom Transport BV;31/07/2027 00:00:00;31/07/2027 00:00:00;APK-datum verlopen van kenteken OX-62-HP;1;1126;;OX-62-HP;BT133;;;APK
+1366;Werkplaats;Wagenpark Boom Transport BV;31/07/2027 00:00:00;31/07/2027 00:00:00;Koeler B beurt voor kenteken OX-62-HP;18;488;;OX-62-HP;BT133;;;Koeler
+1350;Werkplaats;Wagenpark Boom Transport BV;31/07/2027 00:00:00;31/07/2027 00:00:00;APK-datum verlopen van kenteken OX-63-HP;1;1109;;OX-63-HP;BT134;;;APK
+1352;Werkplaats;Wagenpark Boom Transport BV;31/07/2027 00:00:00;31/07/2027 00:00:00;Koeler B beurt voor kenteken OX-63-HP;18;479;;OX-63-HP;BT134;;;Koeler
+1369;Werkplaats;Wagenpark Boom Transport BV;31/07/2027 00:00:00;31/07/2027 00:00:00;APK-datum verlopen van kenteken OX-64-HP;1;1122;;OX-64-HP;BT135;;;APK
+1371;Werkplaats;Wagenpark Boom Transport BV;31/07/2027 00:00:00;31/07/2027 00:00:00;Koeler B beurt voor kenteken OX-64-HP;18;492;;OX-64-HP;BT135;;;Koeler
+1374;Werkplaats;Wagenpark Boom Transport BV;31/07/2027 00:00:00;31/07/2027 00:00:00;APK-datum verlopen van kenteken OX-65-HP;1;1124;;OX-65-HP;BT136;;;APK
+1376;Werkplaats;Wagenpark Boom Transport BV;31/07/2027 00:00:00;31/07/2027 00:00:00;Koeler B beurt voor kenteken OX-65-HP;18;496;;OX-65-HP;BT136;;;Koeler
+257;Werkplaats;Boom Transport BV;01/08/2027 00:00:00;01/08/2027 00:00:00;FRC keuring voor kenteken OS-08-XJ;101;298;;OS-08-XJ;BT90;;;FRC
+261;Werkplaats;Boom Transport BV;01/08/2027 00:00:00;01/08/2027 00:00:00;FRC keuring voor kenteken OS-09-XJ;101;299;;OS-09-XJ;BT91;;;FRC
+243;Werkplaats;Wagenpark Boom Transport BV;12/08/2027 00:00:00;12/08/2027 00:00:00;APK-datum verlopen van kenteken OS-04-XJ;1;294;;OS-04-XJ;BT86;;;APK
+1193;Werkplaats;Wagenpark Boom Transport BV;12/08/2027 00:00:00;12/08/2027 00:00:00;Koeler B beurt voor kenteken OS-04-XJ;18;348;;OS-04-XJ;BT86;;;Koeler
+244;Werkplaats;Wagenpark Boom Transport BV;12/08/2027 00:00:00;12/08/2027 00:00:00;APK-datum verlopen van kenteken OS-05-XJ;1;295;;OS-05-XJ;BT87;;;APK
+1195;Werkplaats;Wagenpark Boom Transport BV;12/08/2027 00:00:00;12/08/2027 00:00:00;Koeler B beurt voor kenteken OS-05-XJ;18;350;;OS-05-XJ;BT87;;;Koeler
+256;Werkplaats;Wagenpark Boom Transport BV;12/08/2027 00:00:00;12/08/2027 00:00:00;APK-datum verlopen van kenteken OS-08-XJ;1;298;;OS-08-XJ;BT90;;;APK
+902;Werkplaats;Wagenpark Boom Transport BV;12/08/2027 00:00:00;12/08/2027 00:00:00;Koeler A beurt voor kenteken OS-08-XJ;18;107;;OS-08-XJ;BT90;;;Koeler
+1286;Werkplaats;Wagenpark Boom Transport BV;13/08/2027 08:00:00;13/08/2027 08:00:00;CFK Keuring voor kenteken OS-27-LZ;18;435;;OS-27-LZ;BT79;;;CFK
+1038;Werkplaats;Wagenpark Boom Transport BV;17/08/2027 08:17:00;17/08/2027 08:17:00;Onderhoud Q beurt voor kenteken 08-BZZ-7;18;194;;08-BZZ-7;25302;;;Onderhoud
+252;Werkplaats;Wagenpark Boom Transport BV;18/08/2027 00:00:00;18/08/2027 00:00:00;APK-datum verlopen van kenteken OS-07-XJ;1;297;;OS-07-XJ;BT89;;;APK
+1199;Werkplaats;Wagenpark Boom Transport BV;18/08/2027 00:00:00;18/08/2027 00:00:00;Koeler B beurt voor kenteken OS-07-XJ;18;354;;OS-07-XJ;BT89;;;Koeler
+1344;Werkplaats;;20/08/2027 00:00:00;20/08/2027 00:00:00;APK-datum verlopen van kenteken BD-492-S;1;1116;;BD-492-S;231;;;APK
+260;Werkplaats;Wagenpark Boom Transport BV;23/08/2027 00:00:00;23/08/2027 00:00:00;APK-datum verlopen van kenteken OS-09-XJ;1;299;;OS-09-XJ;BT91;;;APK
+1204;Werkplaats;Wagenpark Boom Transport BV;23/08/2027 00:00:00;23/08/2027 00:00:00;Koeler B beurt voor kenteken OS-09-XJ;18;359;;OS-09-XJ;BT91;;;Koeler
+248;Werkplaats;Wagenpark Boom Transport BV;25/08/2027 00:00:00;25/08/2027 00:00:00;APK-datum verlopen van kenteken OS-06-XJ;1;296;;OS-06-XJ;BT88;;;APK
+1197;Werkplaats;Wagenpark Boom Transport BV;25/08/2027 00:00:00;25/08/2027 00:00:00;Koeler B beurt voor kenteken OS-06-XJ;18;352;;OS-06-XJ;BT88;;;Koeler
+1290;Werkplaats;Wagenpark Boom Transport BV;26/08/2027 08:00:00;26/08/2027 08:00:00;CFK Keuring voor kenteken OS-72-TY;18;439;;OS-72-TY;BT83;;;CFK
+1267;Werkplaats;Wagenpark Boom Transport BV;31/08/2027 08:00:00;31/08/2027 08:00:00;CFK Keuring voor kenteken ON-21-HS;18;416;;ON-21-HS;BT56;;;CFK
+1268;Werkplaats;Wagenpark Boom Transport BV;31/08/2027 09:00:00;31/08/2027 09:00:00;CFK Keuring voor kenteken ON-22-HS;18;417;;ON-22-HS;BT57;;;CFK
+1270;Werkplaats;Wagenpark Boom Transport BV;31/08/2027 10:00:00;31/08/2027 10:00:00;CFK Keuring voor kenteken ON-50-RK;18;419;;ON-50-RK;BT59;;;CFK
+1273;Werkplaats;Wagenpark Boom Transport BV;31/08/2027 11:00:00;31/08/2027 11:00:00;CFK Keuring voor kenteken OP-47-HS;18;422;;OP-47-HS;BT62;;;CFK
+1275;Werkplaats;Wagenpark Boom Transport BV;31/08/2027 12:00:00;31/08/2027 12:00:00;CFK Keuring voor kenteken OP-26-YJ;18;424;;OP-26-YJ;BT64;;;CFK
+1296;Werkplaats;Wagenpark Boom Transport BV;31/08/2027 13:00:00;31/08/2027 13:00:00;CFK Keuring voor kenteken OS-07-XJ;18;445;;OS-07-XJ;BT89;;;CFK
+632;Werkplaats;Wagenpark Boom Transport BV;02/09/2027 00:00:00;02/09/2027 00:00:00;APK-datum verlopen van kenteken 44-BZF-9;1;518;;44-BZF-9;24908;;;APK
+991;Werkplaats;Wagenpark Boom Transport BV;02/09/2027 00:00:00;02/09/2027 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 44-BZF-9;18;147;;44-BZF-9;24908;;;Onderhoud
+1074;Werkplaats;Wagenpark Boom Transport BV;05/09/2027 08:00:00;05/09/2027 08:00:00;Onderhoud Q beurt voor kenteken BD-888-F;18;229;;BD-888-F;260224;;;Onderhoud
+1075;Werkplaats;Wagenpark Boom Transport BV;05/09/2027 10:00:00;05/09/2027 10:00:00;Onderhoud Q beurt voor kenteken BD-890-F;18;230;;BD-890-F;260226;;;Onderhoud
+212;Werkplaats;Wagenpark Boom Transport BV;07/09/2027 00:00:00;07/09/2027 00:00:00;APK-datum verlopen van kenteken OP-25-YJ;1;271;;OP-25-YJ;BT63;;;APK
+748;Werkplaats;Wagenpark Boom Transport BV;07/09/2027 08:00:00;07/09/2027 08:00:00;Koeler A beurt voor kenteken OP-25-YJ;18;21;;OP-25-YJ;BT63;;;Koeler
+1288;Werkplaats;Wagenpark Boom Transport BV;08/09/2027 08:00:00;08/09/2027 08:00:00;CFK Keuring voor kenteken OS-94-TP;18;437;;OS-94-TP;BT81;;;CFK
+227;Werkplaats;Wagenpark Boom Transport BV;11/09/2027 00:00:00;11/09/2027 00:00:00;APK-datum verlopen van kenteken OP-31-YJ;1;276;;OP-31-YJ;BT68;;;APK
+899;Werkplaats;Wagenpark Boom Transport BV;11/09/2027 11:00:00;11/09/2027 11:00:00;Koeler A beurt voor kenteken OP-31-YJ;18;106;;OP-31-YJ;BT68;;;Koeler
+215;Werkplaats;Wagenpark Boom Transport BV;12/09/2027 00:00:00;12/09/2027 00:00:00;APK-datum verlopen van kenteken OP-26-YJ;1;272;;OP-26-YJ;BT64;;;APK
+886;Werkplaats;Wagenpark Boom Transport BV;12/09/2027 08:00:00;12/09/2027 08:00:00;Koeler A beurt voor kenteken OP-26-YJ;18;102;;OP-26-YJ;BT64;;;Koeler
+1279;Werkplaats;Wagenpark Boom Transport BV;14/09/2027 08:00:00;14/09/2027 08:00:00;CFK Keuring voor kenteken OP-31-YJ;18;428;;OP-31-YJ;BT68;;;CFK
+221;Werkplaats;Wagenpark Boom Transport BV;18/09/2027 00:00:00;18/09/2027 00:00:00;APK-datum verlopen van kenteken OP-29-YJ;1;274;;OP-29-YJ;BT66;;;APK
+1276;Werkplaats;Wagenpark Boom Transport BV;18/09/2027 08:00:00;18/09/2027 08:00:00;CFK Keuring voor kenteken OP-27-YJ;18;425;;OP-27-YJ;BT65;;;CFK
+878;Werkplaats;Wagenpark Boom Transport BV;18/09/2027 08:00:00;18/09/2027 08:00:00;Koeler A beurt voor kenteken OP-29-YJ;18;99;;OP-29-YJ;BT66;;;Koeler
+1295;Werkplaats;Wagenpark Boom Transport BV;21/09/2027 13:31:00;21/09/2027 13:31:00;CFK Keuring voor kenteken OS-06-XJ;18;444;;OS-06-XJ;BT88;;;CFK
+1271;Werkplaats;Wagenpark Boom Transport BV;25/09/2027 08:00:00;25/09/2027 08:00:00;CFK Keuring voor kenteken ON-51-RK;18;420;;ON-51-RK;BT60;;;CFK
+1293;Werkplaats;Wagenpark Boom Transport BV;25/09/2027 08:00:00;25/09/2027 08:00:00;CFK Keuring voor kenteken OS-04-XJ;18;442;;OS-04-XJ;BT86;;;CFK
+1384;Werkplaats;Wagenpark Boom Transport BV;29/09/2027 00:00:00;29/09/2027 00:00:00;APK-datum verlopen van kenteken BD-065-Z;1;1136;;BD-065-Z;234;;;APK
+1385;Werkplaats;Wagenpark Boom Transport BV;29/09/2027 00:00:00;29/09/2027 00:00:00;APK-datum verlopen van kenteken BD-066-Z;1;1137;;BD-066-Z;235;;;APK
+1070;Werkplaats;Wagenpark Boom Transport BV;05/10/2027 09:00:00;05/10/2027 09:00:00;Onderhoud Q beurt voor kenteken BD-889-F;18;225;;BD-889-F;260225;;;Onderhoud
+481;Werkplaats;Wagenpark Boom Transport BV;09/10/2027 00:00:00;09/10/2027 00:00:00;APK-datum verlopen van kenteken 98-BGH-4;1;347;;98-BGH-4;werkplaats trekker;;;APK
+98;Werkplaats;Wagenpark Boom Transport BV;21/10/2027 00:00:00;21/10/2027 00:00:00;Tachograaf-datum verlopen van kenteken 01-BXH-7;7;48;;01-BXH-7;24200;;;Tachograaf
+1053;Werkplaats;Wagenpark Boom Transport BV;23/10/2027 08:00:00;23/10/2027 08:00:00;Onderhoud Q beurt voor kenteken 50-BXR-8;18;209;;50-BXR-8;24300;;;Onderhoud
+1057;Werkplaats;Wagenpark Boom Transport BV;23/10/2027 08:00:00;23/10/2027 08:00:00;Onderhoud Q beurt voor kenteken 53-BXR-8;18;213;;53-BXR-8;24302;;;Onderhoud
+1059;Werkplaats;Wagenpark Boom Transport BV;23/10/2027 08:00:00;23/10/2027 08:00:00;Onderhoud Q beurt voor kenteken 57-BXR-8;18;215;;57-BXR-8;24304;;;Onderhoud
+108;Werkplaats;Wagenpark Boom Transport BV;27/10/2027 00:00:00;27/10/2027 00:00:00;Tachograaf-datum verlopen van kenteken 12-BTS-1;7;53;;12-BTS-1;23195;;;Tachograaf
+1236;Werkplaats;Wagenpark Boom Transport BV;02/11/2027 08:00:00;02/11/2027 08:00:00;CFK Keuring voor kenteken OT-20-PS;18;385;;OT-20-PS;BT101;;;CFK
+1237;Werkplaats;Wagenpark Boom Transport BV;02/11/2027 08:00:00;02/11/2027 08:00:00;CFK Keuring voor kenteken OT-21-PS;18;386;;OT-21-PS;BT102;;;CFK
+1301;Werkplaats;Wagenpark Boom Transport BV;02/11/2027 08:00:00;02/11/2027 08:00:00;CFK Keuring voor kenteken OT-49-PP;18;450;;OT-49-PP;BT94;;;CFK
+1305;Werkplaats;Wagenpark Boom Transport BV;02/11/2027 08:00:00;02/11/2027 08:00:00;CFK Keuring voor kenteken OT-53-PP;18;454;;OT-53-PP;BT98;;;CFK
+1306;Werkplaats;Wagenpark Boom Transport BV;02/11/2027 08:00:00;02/11/2027 08:00:00;CFK Keuring voor kenteken OT-54-PP;18;455;;OT-54-PP;BT99;;;CFK
+1235;Werkplaats;Wagenpark Boom Transport BV;02/11/2027 08:00:00;02/11/2027 08:00:00;CFK Keuring voor kenteken OT-55-PP;18;384;;OT-55-PP;BT100;;;CFK
+1242;Werkplaats;Wagenpark Boom Transport BV;10/11/2027 00:00:00;10/11/2027 00:00:00;CFK Keuring voor kenteken OT-19-SN;18;391;;OT-19-SN;BT107;;;CFK
+313;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;APK-datum verlopen van kenteken OT-20-PS;1;309;;OT-20-PS;BT101;;;APK
+1089;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-20-PS;18;244;;OT-20-PS;BT101;;;Koeler
+1092;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-21-PS;18;247;;OT-21-PS;BT102;;;Koeler
+321;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;APK-datum verlopen van kenteken OT-22-PS;1;311;;OT-22-PS;BT103;;;APK
+1094;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-22-PS;18;249;;OT-22-PS;BT103;;;Koeler
+327;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;APK-datum verlopen van kenteken OT-47-PP;1;300;;OT-47-PP;BT92;;;APK
+1206;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-47-PP;18;361;;OT-47-PP;BT92;;;Koeler
+331;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;APK-datum verlopen van kenteken OT-48-PP;1;301;;OT-48-PP;BT93;;;APK
+1208;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-48-PP;18;363;;OT-48-PP;BT93;;;Koeler
+333;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;APK-datum verlopen van kenteken OT-49-PP;1;302;;OT-49-PP;BT94;;;APK
+1210;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-49-PP;18;365;;OT-49-PP;BT94;;;Koeler
+335;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;APK-datum verlopen van kenteken OT-50-PP;1;303;;OT-50-PP;BT95;;;APK
+1212;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-50-PP;18;367;;OT-50-PP;BT95;;;Koeler
+337;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;APK-datum verlopen van kenteken OT-51-PP;1;304;;OT-51-PP;BT96;;;APK
+1214;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-51-PP;18;369;;OT-51-PP;BT96;;;Koeler
+339;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;APK-datum verlopen van kenteken OT-52-PP;1;305;;OT-52-PP;BT97;;;APK
+1216;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-52-PP;18;371;;OT-52-PP;BT97;;;Koeler
+341;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;APK-datum verlopen van kenteken OT-53-PP;1;306;;OT-53-PP;BT98;;;APK
+1218;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-53-PP;18;373;;OT-53-PP;BT98;;;Koeler
+343;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;APK-datum verlopen van kenteken OT-54-PP;1;307;;OT-54-PP;BT99;;;APK
+1221;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-54-PP;18;376;;OT-54-PP;BT99;;;Koeler
+1087;Werkplaats;Wagenpark Boom Transport BV;11/11/2027 00:00:00;11/11/2027 00:00:00;Koeler B beurt voor kenteken OT-55-PP;18;242;;OT-55-PP;BT100;;;Koeler
+317;Werkplaats;Wagenpark Boom Transport BV;16/11/2027 00:00:00;16/11/2027 00:00:00;APK-datum verlopen van kenteken OT-21-PS;1;310;;OT-21-PS;BT102;;;APK
+345;Werkplaats;Wagenpark Boom Transport BV;16/11/2027 00:00:00;16/11/2027 00:00:00;APK-datum verlopen van kenteken OT-55-PP;1;308;;OT-55-PP;BT100;;;APK
+1274;Werkplaats;Wagenpark Boom Transport BV;16/11/2027 08:00:00;16/11/2027 08:00:00;CFK Keuring voor kenteken OP-25-YJ;18;423;;OP-25-YJ;BT63;;;CFK
+1277;Werkplaats;Wagenpark Boom Transport BV;16/11/2027 08:00:00;16/11/2027 08:00:00;CFK Keuring voor kenteken OP-29-YJ;18;426;;OP-29-YJ;BT66;;;CFK
+1300;Werkplaats;Wagenpark Boom Transport BV;16/11/2027 08:00:00;16/11/2027 08:00:00;CFK Keuring voor kenteken OT-48-PP;18;449;;OT-48-PP;BT93;;;CFK
+1302;Werkplaats;Wagenpark Boom Transport BV;16/11/2027 08:00:00;16/11/2027 08:00:00;CFK Keuring voor kenteken OT-50-PP;18;451;;OT-50-PP;BT95;;;CFK
+1304;Werkplaats;Wagenpark Boom Transport BV;17/11/2027 08:35:00;17/11/2027 08:35:00;CFK Keuring voor kenteken OT-52-PP;18;453;;OT-52-PP;BT97;;;CFK
+1171;Werkplaats;Wagenpark Boom Transport BV;14/12/2027 00:00:00;14/12/2027 00:00:00;Koeler B beurt voor kenteken OS-23-LZ;18;326;;OS-23-LZ;BT75;;;Koeler
+1169;Werkplaats;Wagenpark Boom Transport BV;14/12/2027 00:00:00;14/12/2027 00:00:00;Koeler B beurt voor kenteken OS-26-LV;18;324;;OS-26-LV;BT74;;;Koeler
+1173;Werkplaats;Wagenpark Boom Transport BV;21/12/2027 00:00:00;21/12/2027 00:00:00;Koeler B beurt voor kenteken OS-24-LZ;18;328;;OS-24-LZ;BT76;;;Koeler
+1175;Werkplaats;Wagenpark Boom Transport BV;22/12/2027 00:00:00;22/12/2027 00:00:00;Koeler B beurt voor kenteken OS-25-LZ;18;330;;OS-25-LZ;BT77;;;Koeler
+1177;Werkplaats;Wagenpark Boom Transport BV;22/12/2027 00:00:00;22/12/2027 00:00:00;Koeler B beurt voor kenteken OS-26-LZ;18;332;;OS-26-LZ;BT78;;;Koeler
+1179;Werkplaats;Wagenpark Boom Transport BV;22/12/2027 00:00:00;22/12/2027 00:00:00;Koeler B beurt voor kenteken OS-27-LZ;18;334;;OS-27-LZ;BT79;;;Koeler
+122;Werkplaats;Wagenpark Boom Transport BV;30/12/2027 00:00:00;30/12/2027 00:00:00;Tachograaf-datum verlopen van kenteken 26-BXH-7;7;60;;26-BXH-7;24279;;;Tachograaf
+92;Werkplaats;Wagenpark Boom Transport BV;31/12/2027 00:00:00;31/12/2027 00:00:00;Tachograaf-datum verlopen van kenteken 28-BXH-7;7;45;;28-BXH-7;203;;;Tachograaf
+977;Werkplaats;Wagenpark Boom Transport BV;02/01/2028 00:00:00;02/01/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 10-BTS-1;18;133;;10-BTS-1;23193;;;Onderhoud
+981;Werkplaats;Wagenpark Boom Transport BV;02/01/2028 00:00:00;02/01/2028 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 25-BZS-9;18;137;;25-BZS-9;24305;;;Onderhoud
+1006;Werkplaats;Wagenpark Boom Transport BV;02/01/2028 00:00:00;02/01/2028 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 75-BZS-6;18;162;;75-BZS-6;24306;;;Onderhoud
+808;Werkplaats;Wagenpark Boom Transport BV;04/01/2028 00:00:00;04/01/2028 00:00:00;Koeler A beurt voor kenteken OV-09-FG;18;63;;OV-09-FG;BT111;;;Koeler
+841;Werkplaats;Wagenpark Boom Transport BV;04/01/2028 00:00:00;04/01/2028 00:00:00;Koeler A beurt voor kenteken OV-10-FG;18;86;;OV-10-FG;BT112;;;Koeler
+1013;Werkplaats;Wagenpark Boom Transport BV;05/01/2028 00:00:00;05/01/2028 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken BB-078-Z;18;169;;BB-078-Z;25129;;;Onderhoud
+1017;Werkplaats;Wagenpark Boom Transport BV;05/01/2028 00:00:00;05/01/2028 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken BB-079-Z;18;173;;BB-079-Z;251209;;;Onderhoud
+893;Werkplaats;Wagenpark Boom Transport BV;06/01/2028 00:00:00;06/01/2028 00:00:00;Tachograaf-datum verlopen van kenteken BB-078-Z;7;1004;;BB-078-Z;25129;;;Tachograaf
+894;Werkplaats;Wagenpark Boom Transport BV;06/01/2028 00:00:00;06/01/2028 00:00:00;Tachograaf-datum verlopen van kenteken BB-079-Z;7;1003;;BB-079-Z;251209;;;Tachograaf
+847;Werkplaats;Wagenpark Boom Transport BV;06/01/2028 00:00:00;06/01/2028 00:00:00;Koeler A beurt voor kenteken OV-08-FG;18;88;;OV-08-FG;BT110;;;Koeler
+827;Werkplaats;Wagenpark Boom Transport BV;07/01/2028 00:00:00;07/01/2028 00:00:00;Koeler A beurt voor kenteken OV-11-FG;18;76;;OV-11-FG;BT113;;;Koeler
+842;Werkplaats;Wagenpark Boom Transport BV;07/01/2028 00:00:00;07/01/2028 00:00:00;Koeler A beurt voor kenteken OV-12-FG;18;87;;OV-12-FG;BT114;;;Koeler
+124;Werkplaats;Wagenpark Boom Transport BV;14/01/2028 00:00:00;14/01/2028 00:00:00;Tachograaf-datum verlopen van kenteken 39-BXJ-2;7;61;;39-BXJ-2;24282;;;Tachograaf
+816;Werkplaats;Wagenpark Boom Transport BV;16/01/2028 00:00:00;16/01/2028 00:00:00;Koeler A beurt voor kenteken OT-19-SN;18;68;;OT-19-SN;BT107;;;Koeler
+837;Werkplaats;Wagenpark Boom Transport BV;16/01/2028 00:00:00;16/01/2028 00:00:00;Koeler A beurt voor kenteken OT-20-SN;18;82;;OT-20-SN;BT108;;;Koeler
+863;Werkplaats;Wagenpark Boom Transport BV;16/01/2028 00:00:00;16/01/2028 00:00:00;Koeler A beurt voor kenteken OT-21-SN;18;93;;OT-21-SN;BT109;;;Koeler
+1037;Werkplaats;Wagenpark Boom Transport BV;18/01/2028 00:00:00;18/01/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 01-BXH-7;18;193;;01-BXH-7;24200;;;Onderhoud
+986;Werkplaats;Wagenpark Boom Transport BV;18/01/2028 00:00:00;18/01/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 27-BXH-7;18;142;;27-BXH-7;24280;;;Onderhoud
+988;Werkplaats;Wagenpark Boom Transport BV;23/01/2028 00:00:00;23/01/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 28-BXH-7;18;144;;28-BXH-7;203;;;Onderhoud
+990;Werkplaats;Wagenpark Boom Transport BV;23/01/2028 00:00:00;23/01/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 39-BXJ-2;18;146;;39-BXJ-2;24282;;;Onderhoud
+1021;Werkplaats;Wagenpark Boom Transport BV;26/01/2028 00:00:00;26/01/2028 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken BD-843-B;18;177;;BD-843-B;260126;;;Onderhoud
+912;Werkplaats;Wagenpark Boom Transport BV;26/01/2028 00:00:00;26/01/2028 00:00:00;Tachograaf-datum verlopen van kenteken BD-843-B;7;1005;;BD-843-B;260126;;;Tachograaf
+1230;Werkplaats;Wagenpark Boom Transport BV;26/01/2028 00:00:00;26/01/2028 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken BD-844-B;18;380;;BD-844-B;260127;;;Onderhoud
+1233;Werkplaats;Wagenpark Boom Transport BV;28/01/2028 00:00:00;28/01/2028 00:00:00;Tachograaf-datum verlopen van kenteken BD-844-B;7;1011;;BD-844-B;260127;;;Tachograaf
+984;Werkplaats;Wagenpark Boom Transport BV;29/01/2028 00:00:00;29/01/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 26-BXH-7;18;140;;26-BXH-7;24279;;;Onderhoud
+877;Werkplaats;Wagenpark Boom Transport BV;13/02/2028 00:00:00;13/02/2028 00:00:00;Koeler A beurt voor kenteken OT-45-TD;18;98;;OT-45-TD;BT104;;;Koeler
+888;Werkplaats;Boom Transport BV;13/02/2028 00:00:00;13/02/2028 00:00:00;Koeler A beurt voor kenteken OT-46-TD;18;103;;OT-46-TD;BT105;;;Koeler
+895;Werkplaats;Wagenpark Boom Transport BV;13/02/2028 00:00:00;13/02/2028 00:00:00;Koeler A beurt voor kenteken OT-47-TD;18;104;;OT-47-TD;BT106;;;Koeler
+969;Werkplaats;Boom Transport BV;17/02/2028 00:00:00;17/02/2028 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 08-BZZ-7;18;125;;08-BZZ-7;25302;;;Onderhoud
+972;Werkplaats;Wagenpark Boom Transport BV;17/02/2028 00:00:00;17/02/2028 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 08-BZZ-7;18;128;;08-BZZ-7;25302;;;Onderhoud
+975;Werkplaats;Wagenpark Boom Transport BV;17/02/2028 00:00:00;17/02/2028 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 09-BZZ-7;18;131;;09-BZZ-7;25303;;;Onderhoud
+367;Werkplaats;Wagenpark Boom Transport BV;05/03/2028 00:00:00;05/03/2028 00:00:00;Tachograaf-datum verlopen van kenteken 51-BXR-8;7;325;;51-BXR-8;24301;;;Tachograaf
+1025;Werkplaats;Wagenpark Boom Transport BV;05/03/2028 00:00:00;05/03/2028 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken BD-888-F;18;181;;BD-888-F;260224;;;Onderhoud
+1029;Werkplaats;Wagenpark Boom Transport BV;05/03/2028 00:00:00;05/03/2028 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken BD-889-F;18;185;;BD-889-F;260225;;;Onderhoud
+1032;Werkplaats;Wagenpark Boom Transport BV;05/03/2028 00:00:00;05/03/2028 00:00:00;Onderhoud XG XY beurt (2de jaar) voor kenteken BD-890-F;18;188;;BD-890-F;260226;;;Onderhoud
+90;Werkplaats;Wagenpark Boom Transport BV;06/03/2028 00:00:00;06/03/2028 00:00:00;Tachograaf-datum verlopen van kenteken 27-BXH-7;7;44;;27-BXH-7;24280;;;Tachograaf
+929;Werkplaats;Wagenpark Boom Transport BV;06/03/2028 00:00:00;06/03/2028 00:00:00;Tachograaf-datum verlopen van kenteken BD-889-F;7;1007;;BD-889-F;260225;;;Tachograaf
+928;Werkplaats;Wagenpark Boom Transport BV;09/03/2028 00:00:00;09/03/2028 00:00:00;Tachograaf-datum verlopen van kenteken BD-888-F;7;1006;;BD-888-F;260224;;;Tachograaf
+941;Werkplaats;Wagenpark Boom Transport BV;11/03/2028 00:00:00;11/03/2028 00:00:00;Tachograaf-datum verlopen van kenteken BD-890-F;7;1008;;BD-890-F;260226;;;Tachograaf
+368;Werkplaats;Wagenpark Boom Transport BV;18/03/2028 00:00:00;18/03/2028 00:00:00;Tachograaf-datum verlopen van kenteken 53-BXR-8;7;327;;53-BXR-8;24302;;;Tachograaf
+879;Werkplaats;Wagenpark Boom Transport BV;20/03/2028 00:00:00;20/03/2028 00:00:00;Koeler A beurt voor kenteken OV-02-RY;18;100;;OV-02-RY;BT120;;;Koeler
+907;Werkplaats;Wagenpark Boom Transport BV;20/03/2028 00:00:00;20/03/2028 00:00:00;Koeler A beurt voor kenteken OV-03-RY;18;108;;OV-03-RY;BT121;;;Koeler
+804;Werkplaats;Wagenpark Boom Transport BV;25/03/2028 00:00:00;25/03/2028 00:00:00;Koeler A beurt voor kenteken OV-16-GY;18;61;;OV-16-GY;BT119;;;Koeler
+366;Werkplaats;Wagenpark Boom Transport BV;01/04/2028 00:00:00;01/04/2028 00:00:00;Tachograaf-datum verlopen van kenteken 50-BXR-8;7;326;;50-BXR-8;24300;;;Tachograaf
+369;Werkplaats;Wagenpark Boom Transport BV;02/04/2028 00:00:00;02/04/2028 00:00:00;Tachograaf-datum verlopen van kenteken 56-BXR-8;7;328;;56-BXR-8;24303;;;Tachograaf
+794;Werkplaats;Wagenpark Boom Transport BV;02/04/2028 00:00:00;02/04/2028 00:00:00;Koeler A beurt voor kenteken OV-33-SH;18;54;;OV-33-SH;BT122;;;Koeler
+932;Werkplaats;Wagenpark Boom Transport BV;02/04/2028 00:00:00;02/04/2028 00:00:00;Koeler A beurt voor kenteken OV-34-SH;18;112;;OV-34-SH;BT123;;;Koeler
+819;Werkplaats;Wagenpark Boom Transport BV;02/04/2028 00:00:00;02/04/2028 00:00:00;Koeler A beurt voor kenteken OV-35-SH;18;70;;OV-35-SH;BT124;;;Koeler
+1224;Werkplaats;;03/04/2028 00:00:00;03/04/2028 00:00:00;Tachograaf-datum verlopen van kenteken 35-BSZ-8;7;1010;;35-BSZ-8;23199;;;Tachograaf
+370;Werkplaats;Wagenpark Boom Transport BV;03/04/2028 00:00:00;03/04/2028 00:00:00;Tachograaf-datum verlopen van kenteken 57-BXR-8;7;329;;57-BXR-8;24304;;;Tachograaf
+779;Werkplaats;Boom Transport BV;15/04/2028 00:00:00;15/04/2028 00:00:00;Koeler A beurt voor kenteken OV-22-HJ;18;42;;OV-22-HJ;BT115;;;Koeler
+943;Werkplaats;Wagenpark Boom Transport BV;15/04/2028 00:00:00;15/04/2028 00:00:00;Koeler A beurt voor kenteken OV-23-HJ;18;113;;OV-23-HJ;BT116;;;Koeler
+742;Werkplaats;Wagenpark Boom Transport BV;15/04/2028 00:00:00;15/04/2028 00:00:00;Koeler A beurt voor kenteken OV-24-HJ;18;16;;OV-24-HJ;BT117;;;Koeler
+778;Werkplaats;Wagenpark Boom Transport BV;15/04/2028 00:00:00;15/04/2028 00:00:00;Koeler A beurt voor kenteken OV-25-HJ;18;41;;OV-25-HJ;BT118;;;Koeler
+994;Werkplaats;Wagenpark Boom Transport BV;23/04/2028 00:00:00;23/04/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 50-BXR-8;18;150;;50-BXR-8;24300;;;Onderhoud
+996;Werkplaats;Wagenpark Boom Transport BV;23/04/2028 00:00:00;23/04/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 51-BXR-8;18;152;;51-BXR-8;24301;;;Onderhoud
+998;Werkplaats;Wagenpark Boom Transport BV;23/04/2028 00:00:00;23/04/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 53-BXR-8;18;154;;53-BXR-8;24302;;;Onderhoud
+1000;Werkplaats;Wagenpark Boom Transport BV;23/04/2028 00:00:00;23/04/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 56-BXR-8;18;156;;56-BXR-8;24303;;;Onderhoud
+1002;Werkplaats;Wagenpark Boom Transport BV;23/04/2028 00:00:00;23/04/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 57-BXR-8;18;158;;57-BXR-8;24304;;;Onderhoud
+168;Werkplaats;Boom Transport BV;01/05/2028 00:00:00;01/05/2028 00:00:00;FRC stickers voor kenteken OL-16-YZ;102;256;;OL-16-YZ;;;;FRC
+171;Werkplaats;Boom Transport BV;01/05/2028 00:00:00;01/05/2028 00:00:00;FRC stickers voor kenteken OL-17-YZ;102;257;;OL-17-YZ;;;;FRC
+174;Werkplaats;Boom Transport BV;01/05/2028 00:00:00;01/05/2028 00:00:00;FRC stickers voor kenteken OL-18-YZ;102;258;;OL-18-YZ;;;;FRC
+177;Werkplaats;Boom Transport BV;01/05/2028 00:00:00;01/05/2028 00:00:00;FRC stickers voor kenteken OL-19-YZ;102;259;;OL-19-YZ;;;;FRC
+180;Werkplaats;Boom Transport BV;01/05/2028 00:00:00;01/05/2028 00:00:00;FRC stickers voor kenteken OL-20-YZ;102;260;;OL-20-YZ;;;;FRC
+1139;Werkplaats;Wagenpark Boom Transport BV;08/05/2028 00:00:00;08/05/2028 00:00:00;Koeler B beurt voor kenteken OV-59-SY;18;294;;OV-59-SY;BT125;;;Koeler
+1143;Werkplaats;Wagenpark Boom Transport BV;08/05/2028 00:00:00;08/05/2028 00:00:00;Koeler B beurt voor kenteken OV-61-SY;18;298;;OV-61-SY;BT127;;;Koeler
+1145;Werkplaats;Wagenpark Boom Transport BV;08/05/2028 00:00:00;08/05/2028 00:00:00;Koeler B beurt voor kenteken OV-62-SY;18;300;;OV-62-SY;BT128;;;Koeler
+793;Werkplaats;Boom Transport BV.;08/05/2028 09:00:00;08/05/2028 09:00:00;Koeler A beurt voor kenteken OV-60-SY;18;53;;OV-60-SY;BT126;;;Koeler
+1147;Werkplaats;Wagenpark Boom Transport BV;08/05/2028 11:18:00;08/05/2028 11:18:00;Koeler B beurt voor kenteken OV-63-SY;18;302;;OV-63-SY;BT129;;;Koeler
+805;Werkplaats;Wagenpark Boom Transport BV;26/05/2028 08:00:00;26/05/2028 08:00:00;Koeler A beurt voor kenteken OS-74-TY;18;62;;OS-74-TY;BT85;;;Koeler
+185;Werkplaats;Boom Transport BV;01/06/2028 00:00:00;01/06/2028 00:00:00;FRC stickers voor kenteken OL-39-ZH;102;280;;OL-39-ZH;;;;FRC
+1183;Werkplaats;Wagenpark Boom Transport BV;01/06/2028 14:24:00;01/06/2028 14:24:00;Koeler B beurt voor kenteken OS-94-TP;18;338;;OS-94-TP;BT81;;;Koeler
+1085;Werkplaats;Wagenpark Boom Transport BV;02/06/2028 00:00:00;02/06/2028 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 65-BZX-7;18;240;;65-BZX-7;25124;;;Onderhoud
+823;Werkplaats;Wagenpark Boom Transport BV;02/06/2028 00:00:00;02/06/2028 00:00:00;Koeler A beurt voor kenteken OS-93-TP;18;73;;OS-93-TP;BT80;;;Koeler
+126;Werkplaats;Wagenpark Boom Transport BV;05/06/2028 00:00:00;05/06/2028 00:00:00;Tachograaf-datum verlopen van kenteken 41-BTB-6;7;62;;41-BTB-6;22137;;;Tachograaf
+1329;Werkplaats;Wagenpark Boom Transport BV;08/06/2028 00:00:00;08/06/2028 00:00:00;Koeler A beurt voor kenteken OX-76-GH;18;465;;OX-76-GH;BT137;;;Koeler
+1324;Werkplaats;Wagenpark Boom Transport BV;08/06/2028 00:00:00;08/06/2028 00:00:00;Koeler A beurt voor kenteken OX-77-GH;18;461;;OX-77-GH;BT138;;;Koeler
+1149;Werkplaats;Wagenpark Boom Transport BV;13/06/2028 00:00:00;13/06/2028 00:00:00;Koeler B beurt voor kenteken OV-95-TB;18;304;;OV-95-TB;BT130;;;Koeler
+1151;Werkplaats;Wagenpark Boom Transport BV;13/06/2028 00:00:00;13/06/2028 00:00:00;Koeler B beurt voor kenteken OV-96-TB;18;306;;OV-96-TB;BT131;;;Koeler
+463;Werkplaats;Wagenpark Boom Transport BV;15/06/2028 00:00:00;15/06/2028 00:00:00;Tachograaf-datum verlopen van kenteken 25-BZS-9;7;342;;25-BZS-9;24305;;;Tachograaf
+922;Werkplaats;Wagenpark Boom Transport BV;16/06/2028 08:00:00;16/06/2028 08:00:00;Koeler A beurt voor kenteken OS-05-XJ;18;111;;OS-05-XJ;BT87;;;Koeler
+1320;Werkplaats;Wagenpark Boom Transport BV;17/06/2028 00:00:00;17/06/2028 00:00:00;Koeler A beurt voor kenteken OX-96-GN;18;457;;OX-96-GN;BT140;;;Koeler
+820;Werkplaats;Wagenpark Boom Transport BV;18/06/2028 08:08:00;18/06/2028 08:08:00;Koeler A beurt voor kenteken OS-72-TY;18;71;;OS-72-TY;BT83;;;Koeler
+1185;Werkplaats;Wagenpark Boom Transport BV;18/06/2028 09:00:00;18/06/2028 09:00:00;Koeler B beurt voor kenteken OS-71-TY;18;340;;OS-71-TY;BT82;;;Koeler
+1189;Werkplaats;Wagenpark Boom Transport BV;18/06/2028 09:00:00;18/06/2028 09:00:00;Koeler B beurt voor kenteken OS-73-TY;18;344;;OS-73-TY;BT84;;;Koeler
+868;Werkplaats;Wagenpark Boom Transport BV;01/07/2028 08:00:00;01/07/2028 08:00:00;Koeler A beurt voor kenteken OS-06-XJ;18;95;;OS-06-XJ;BT88;;;Koeler
+474;Werkplaats;Wagenpark Boom Transport BV;03/07/2028 00:00:00;03/07/2028 00:00:00;Tachograaf-datum verlopen van kenteken 99-BZX-6;7;344;;99-BZX-6;25122;;;Tachograaf
+1356;Werkplaats;Wagenpark Boom Transport BV;03/07/2028 00:00:00;03/07/2028 00:00:00;Koeler A beurt voor kenteken OX-97-GN;18;482;;OX-97-GN;BT141;;;Koeler
+1357;Werkplaats;Wagenpark Boom Transport BV;03/07/2028 00:00:00;03/07/2028 00:00:00;Koeler B beurt voor kenteken OX-97-GN;18;483;;OX-97-GN;BT141;;;Koeler
+1011;Werkplaats;Wagenpark Boom Transport BV;23/07/2028 00:00:00;23/07/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 99-BZX-6;18;167;;99-BZX-6;25122;;;Onderhoud
+1080;Werkplaats;Wagenpark Boom Transport BV;30/07/2028 00:00:00;30/07/2028 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken 64-BZX-7;18;235;;64-BZX-7;25123;;;Onderhoud
+1346;Werkplaats;Wagenpark Boom Transport BV;31/07/2028 00:00:00;31/07/2028 00:00:00;Koeler A beurt voor kenteken OX-61-HP;18;474;;OX-61-HP;BT132;;;Koeler
+1365;Werkplaats;Wagenpark Boom Transport BV;31/07/2028 00:00:00;31/07/2028 00:00:00;Koeler A beurt voor kenteken OX-62-HP;18;487;;OX-62-HP;BT133;;;Koeler
+1351;Werkplaats;Wagenpark Boom Transport BV;31/07/2028 00:00:00;31/07/2028 00:00:00;Koeler A beurt voor kenteken OX-63-HP;18;478;;OX-63-HP;BT134;;;Koeler
+1370;Werkplaats;Wagenpark Boom Transport BV;31/07/2028 00:00:00;31/07/2028 00:00:00;Koeler A beurt voor kenteken OX-64-HP;18;491;;OX-64-HP;BT135;;;Koeler
+1375;Werkplaats;Wagenpark Boom Transport BV;31/07/2028 00:00:00;31/07/2028 00:00:00;Koeler A beurt voor kenteken OX-65-HP;18;495;;OX-65-HP;BT136;;;Koeler
+1201;Werkplaats;Wagenpark Boom Transport BV;12/08/2028 09:00:00;12/08/2028 09:00:00;Koeler B beurt voor kenteken OS-08-XJ;18;356;;OS-08-XJ;BT90;;;Koeler
+874;Werkplaats;Wagenpark Boom Transport BV;12/08/2028 10:00:00;12/08/2028 10:00:00;Koeler A beurt voor kenteken OS-04-XJ;18;96;;OS-04-XJ;BT86;;;Koeler
+780;Werkplaats;Wagenpark Boom Transport BV;18/08/2028 12:00:00;18/08/2028 12:00:00;Koeler A beurt voor kenteken OS-07-XJ;18;43;;OS-07-XJ;BT89;;;Koeler
+1203;Werkplaats;Wagenpark Boom Transport BV;23/08/2028 09:00:00;23/08/2028 09:00:00;Koeler A beurt voor kenteken OS-09-XJ;18;358;;OS-09-XJ;BT91;;;Koeler
+992;Werkplaats;Wagenpark Boom Transport BV;02/09/2028 00:00:00;02/09/2028 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 44-BZF-9;18;148;;44-BZF-9;24908;;;Onderhoud
+1381;Werkplaats;;03/09/2028 00:00:00;03/09/2028 00:00:00;Tachograaf-datum verlopen van kenteken BD-492-S;7;1116;;BD-492-S;231;;;Tachograaf
+1220;Werkplaats;Wagenpark Boom Transport BV;15/09/2028 08:00:00;15/09/2028 08:00:00;Koeler A beurt voor kenteken OT-54-PP;18;375;;OT-54-PP;BT99;;;Koeler
+104;Werkplaats;Wagenpark Boom Transport BV;02/10/2028 00:00:00;02/10/2028 00:00:00;Tachograaf-datum verlopen van kenteken 10-BTS-1;7;51;;10-BTS-1;23193;;;Tachograaf
+1386;Werkplaats;Wagenpark Boom Transport BV;08/10/2028 00:00:00;08/10/2028 00:00:00;Tachograaf-datum verlopen van kenteken BD-066-Z;7;1137;;BD-066-Z;235;;;Tachograaf
+1387;Werkplaats;Wagenpark Boom Transport BV;14/10/2028 00:00:00;14/10/2028 00:00:00;Tachograaf-datum verlopen van kenteken BD-065-Z;7;1136;;BD-065-Z;234;;;Tachograaf
+811;Werkplaats;Wagenpark Boom Transport BV;28/10/2028 08:00:00;28/10/2028 08:00:00;Koeler A beurt voor kenteken OS-26-LZ;18;65;;OS-26-LZ;BT78;;;Koeler
+1091;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 08:00:00;11/11/2028 08:00:00;Koeler A beurt voor kenteken OT-21-PS;18;246;;OT-21-PS;BT102;;;Koeler
+757;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 08:00:00;11/11/2028 08:00:00;Koeler A beurt voor kenteken OT-47-PP;18;27;;OT-47-PP;BT92;;;Koeler
+761;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 08:00:00;11/11/2028 08:00:00;Koeler A beurt voor kenteken OT-48-PP;18;30;;OT-48-PP;BT93;;;Koeler
+741;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 08:00:00;11/11/2028 08:00:00;Koeler A beurt voor kenteken OT-50-PP;18;15;;OT-50-PP;BT95;;;Koeler
+796;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 08:00:00;11/11/2028 08:00:00;Koeler A beurt voor kenteken OT-51-PP;18;56;;OT-51-PP;BT96;;;Koeler
+766;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 08:00:00;11/11/2028 08:00:00;Koeler A beurt voor kenteken OT-55-PP;18;33;;OT-55-PP;BT100;;;Koeler
+768;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 09:00:00;11/11/2028 09:00:00;Koeler A beurt voor kenteken OT-20-PS;18;34;;OT-20-PS;BT101;;;Koeler
+876;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 09:00:00;11/11/2028 09:00:00;Koeler A beurt voor kenteken OT-49-PP;18;97;;OT-49-PP;BT94;;;Koeler
+749;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 10:00:00;11/11/2028 10:00:00;Koeler A beurt voor kenteken OT-53-PP;18;22;;OT-53-PP;BT98;;;Koeler
+753;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 14:43:00;11/11/2028 14:43:00;Koeler A beurt voor kenteken OT-52-PP;18;24;;OT-52-PP;BT97;;;Koeler
+759;Werkplaats;Wagenpark Boom Transport BV;11/11/2028 15:40:00;11/11/2028 15:40:00;Koeler A beurt voor kenteken OT-22-PS;18;28;;OT-22-PS;BT103;;;Koeler
+106;Werkplaats;Wagenpark Boom Transport BV;12/11/2028 00:00:00;12/11/2028 00:00:00;Tachograaf-datum verlopen van kenteken 11-BTS-1;7;52;;11-BTS-1;23194;;;Tachograaf
+950;Werkplaats;Wagenpark Boom Transport BV;16/11/2028 00:00:00;16/11/2028 00:00:00;Tachograaf-datum verlopen van kenteken 76-BTT-8;7;71;;76-BTT-8;23198;;;Tachograaf
+431;Werkplaats;Wagenpark Boom Transport BV;22/12/2028 09:00:00;22/12/2028 09:00:00;Koeler A beurt voor kenteken OS-25-LZ;18;7;;OS-25-LZ;BT77;;;Koeler
+982;Werkplaats;Wagenpark Boom Transport BV;02/01/2029 00:00:00;02/01/2029 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 25-BZS-9;18;138;;25-BZS-9;24305;;;Onderhoud
+1007;Werkplaats;Wagenpark Boom Transport BV;02/01/2029 00:00:00;02/01/2029 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 75-BZS-6;18;163;;75-BZS-6;24306;;;Onderhoud
+1014;Werkplaats;Wagenpark Boom Transport BV;05/01/2029 00:00:00;05/01/2029 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken BB-078-Z;18;170;;BB-078-Z;25129;;;Onderhoud
+1018;Werkplaats;Wagenpark Boom Transport BV;05/01/2029 00:00:00;05/01/2029 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken BB-079-Z;18;174;;BB-079-Z;251209;;;Onderhoud
+1022;Werkplaats;Wagenpark Boom Transport BV;26/01/2029 00:00:00;26/01/2029 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken BD-843-B;18;178;;BD-843-B;260126;;;Onderhoud
+1231;Werkplaats;Wagenpark Boom Transport BV;26/01/2029 00:00:00;26/01/2029 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken BD-844-B;18;381;;BD-844-B;260127;;;Onderhoud
+970;Werkplaats;Boom Transport BV;17/02/2029 00:00:00;17/02/2029 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 08-BZZ-7;18;126;;08-BZZ-7;25302;;;Onderhoud
+973;Werkplaats;Wagenpark Boom Transport BV;17/02/2029 00:00:00;17/02/2029 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 08-BZZ-7;18;129;;08-BZZ-7;25302;;;Onderhoud
+976;Werkplaats;Wagenpark Boom Transport BV;17/02/2029 00:00:00;17/02/2029 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 09-BZZ-7;18;132;;09-BZZ-7;25303;;;Onderhoud
+1026;Werkplaats;Wagenpark Boom Transport BV;05/03/2029 00:00:00;05/03/2029 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken BD-888-F;18;182;;BD-888-F;260224;;;Onderhoud
+966;Werkplaats;Wagenpark Boom Transport BV;05/03/2029 00:00:00;05/03/2029 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken BD-889-F;18;122;;BD-889-F;260225;;;Onderhoud
+1033;Werkplaats;Wagenpark Boom Transport BV;05/03/2029 00:00:00;05/03/2029 00:00:00;Onderhoud XG XY beurt (3de jaar) voor kenteken BD-890-F;18;189;;BD-890-F;260226;;;Onderhoud
+1086;Werkplaats;Wagenpark Boom Transport BV;02/06/2029 00:00:00;02/06/2029 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 65-BZX-7;18;241;;65-BZX-7;25124;;;Onderhoud
+1181;Werkplaats;Wagenpark Boom Transport BV;02/06/2029 00:00:00;02/06/2029 00:00:00;Koeler B beurt voor kenteken OS-93-TP;18;336;;OS-93-TP;BT80;;;Koeler
+1081;Werkplaats;Wagenpark Boom Transport BV;30/07/2029 00:00:00;30/07/2029 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken 64-BZX-7;18;236;;64-BZX-7;25123;;;Onderhoud
+1015;Werkplaats;Wagenpark Boom Transport BV;05/01/2030 00:00:00;05/01/2030 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken BB-078-Z;18;171;;BB-078-Z;25129;;;Onderhoud
+1019;Werkplaats;Wagenpark Boom Transport BV;05/01/2030 00:00:00;05/01/2030 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken BB-079-Z;18;175;;BB-079-Z;251209;;;Onderhoud
+1023;Werkplaats;Wagenpark Boom Transport BV;26/01/2030 00:00:00;26/01/2030 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken BD-843-B;18;179;;BD-843-B;260126;;;Onderhoud
+1232;Werkplaats;Wagenpark Boom Transport BV;26/01/2030 00:00:00;26/01/2030 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken BD-844-B;18;382;;BD-844-B;260127;;;Onderhoud
+1027;Werkplaats;Wagenpark Boom Transport BV;05/03/2030 00:00:00;05/03/2030 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken BD-888-F;18;183;;BD-888-F;260224;;;Onderhoud
+1030;Werkplaats;Wagenpark Boom Transport BV;05/03/2030 00:00:00;05/03/2030 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken BD-889-F;18;186;;BD-889-F;260225;;;Onderhoud
+1034;Werkplaats;Wagenpark Boom Transport BV;05/03/2030 00:00:00;05/03/2030 00:00:00;Onderhoud XG XY beurt (4de jaar) voor kenteken BD-890-F;18;190;;BD-890-F;260226;;;Onderhoud
+238;Werkplaats;Boom Transport BV;01/10/2030 00:00:00;01/10/2030 00:00:00;FRC stickers voor kenteken OR-61-SB;102;281;;OR-61-SB;BT73;;;FRC
+266;Werkplaats;Boom Transport BV;01/11/2032 00:00:00;01/11/2032 00:00:00;FRC stickers voor kenteken OS-23-LZ;102;283;;OS-23-LZ;BT75;;;FRC
+270;Werkplaats;Boom Transport BV;01/11/2032 00:00:00;01/11/2032 00:00:00;FRC stickers voor kenteken OS-24-LZ;102;284;;OS-24-LZ;BT76;;;FRC
+274;Werkplaats;Boom Transport BV;01/11/2032 00:00:00;01/11/2032 00:00:00;FRC stickers voor kenteken OS-25-LZ;102;285;;OS-25-LZ;BT77;;;FRC
+278;Werkplaats;Boom Transport BV;01/11/2032 00:00:00;01/11/2032 00:00:00;FRC stickers voor kenteken OS-26-LV;102;282;;OS-26-LV;BT74;;;FRC
+281;Werkplaats;Boom Transport BV;01/11/2032 00:00:00;01/11/2032 00:00:00;FRC stickers voor kenteken OS-26-LZ;102;286;;OS-26-LZ;BT78;;;FRC
+285;Werkplaats;Boom Transport BV;01/11/2032 00:00:00;01/11/2032 00:00:00;FRC stickers voor kenteken OS-27-LZ;102;287;;OS-27-LZ;BT79;;;FRC
+250;Werkplaats;Boom Transport BV;01/01/2033 00:00:00;01/01/2033 00:00:00;FRC stickers voor kenteken OS-06-XJ;102;296;;OS-06-XJ;BT88;;;FRC
+241;Werkplaats;Boom Transport BV;01/05/2033 00:00:00;01/05/2033 00:00:00;FRC stickers voor kenteken OS-04-XJ;102;294;;OS-04-XJ;BT86;;;FRC
+246;Werkplaats;Boom Transport BV;01/05/2033 00:00:00;01/05/2033 00:00:00;FRC stickers voor kenteken OS-05-XJ;102;295;;OS-05-XJ;BT87;;;FRC
+289;Werkplaats;Boom Transport BV;01/05/2033 00:00:00;01/05/2033 00:00:00;FRC stickers voor kenteken OS-71-TY;102;290;;OS-71-TY;BT82;;;FRC
+293;Werkplaats;Boom Transport BV;01/05/2033 00:00:00;01/05/2033 00:00:00;FRC stickers voor kenteken OS-72-TY;102;291;;OS-72-TY;BT83;;;FRC
+297;Werkplaats;Boom Transport BV;01/05/2033 00:00:00;01/05/2033 00:00:00;FRC stickers voor kenteken OS-73-TY;102;292;;OS-73-TY;BT84;;;FRC
+301;Werkplaats;Boom Transport BV;01/05/2033 00:00:00;01/05/2033 00:00:00;FRC stickers voor kenteken OS-74-TY;102;293;;OS-74-TY;BT85;;;FRC
+305;Werkplaats;Boom Transport BV;01/05/2033 00:00:00;01/05/2033 00:00:00;FRC stickers voor kenteken OS-93-TP;102;288;;OS-93-TP;BT80;;;FRC
+309;Werkplaats;Boom Transport BV;01/05/2033 00:00:00;01/05/2033 00:00:00;FRC stickers voor kenteken OS-94-TP;102;289;;OS-94-TP;BT81;;;FRC
+254;Werkplaats;Boom Transport BV;01/07/2033 00:00:00;01/07/2033 00:00:00;FRC stickers voor kenteken OS-07-XJ;102;297;;OS-07-XJ;BT89;;;FRC
+258;Werkplaats;Boom Transport BV;01/08/2033 00:00:00;01/08/2033 00:00:00;FRC stickers voor kenteken OS-08-XJ;102;298;;OS-08-XJ;BT90;;;FRC
+262;Werkplaats;Boom Transport BV;01/08/2033 00:00:00;01/08/2033 00:00:00;FRC stickers voor kenteken OS-09-XJ;102;299;;OS-09-XJ;BT91;;;FRC

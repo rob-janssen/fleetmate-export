@@ -1,0 +1,21 @@
+[2026-11-17 13:19:10] Ophalen: agendas
+[2026-11-17 13:19:10] 1206 records opgehaald
+[2026-11-17 13:19:11] 131 voertuigen met kenteken + nummer uit vehicles
+[2026-11-17 13:19:11] Let op: 34 records zonder herkenbare datum overgeslagen.
+[2026-11-17 13:19:11] Weggefilterd: verleden 385, historie 170
+[2026-11-17 13:19:11] CSV geschreven: /Users/robjanssen/Documents/Development/node/2026/fleetmate-export/exports/agenda_2026-11-17.csv (617 rijen, vergelijk met portal-export)
+[2026-11-17 13:19:11] Excel bijgewerkt: /Users/robjanssen/Documents/Development/node/2026/fleetmate-export/werkplaats_agenda_2026.xlsx (31 events)
+[2026-11-19 07:00:01] Ophalen: agendas
+[2026-11-19 07:00:02] 1199 records opgehaald
+[2026-11-19 07:00:02] 129 voertuigen met kenteken + nummer uit vehicles
+[2026-11-19 07:00:02] Let op: 33 records zonder herkenbare datum overgeslagen.
+[2026-11-19 07:00:02] Weggefilterd: verleden 379, historie 169
+[2026-11-19 07:00:02] CSV geschreven: /Users/robjanssen/Documents/Development/node/2026/fleetmate-export/exports/agenda_2026-11-19.csv (618 rijen, vergelijk met portal-export)
+[2026-11-19 07:00:02] Excel bijgewerkt: /Users/robjanssen/Documents/Development/node/2026/fleetmate-export/werkplaats_agenda_2026.xlsx (28 events)
+[2026-11-26 07:00:03] Ophalen: agendas
+[2026-11-26 07:00:03] 1199 records opgehaald
+[2026-11-26 07:00:03] 129 voertuigen met kenteken + nummer uit vehicles
+[2026-11-26 07:00:04] Let op: 33 records zonder herkenbare datum overgeslagen.
+[2026-11-26 07:00:04] Weggefilterd: verleden 378, historie 169
+[2026-11-26 07:00:04] CSV geschreven: /Users/robjanssen/Documents/Development/node/2026/fleetmate-export/exports/agenda_2026-11-26.csv (619 rijen, vergelijk met portal-export)
+[2026-11-26 07:00:04] Excel bijgewerkt: /Users/robjanssen/Documents/Development/node/2026/fleetmate-export/werkplaats_agenda_2026.xlsx (12 events)

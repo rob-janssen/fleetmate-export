@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>nl.rwmconsultancy.fleetmate-export</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>__DIR__/.venv/bin/python</string>
+        <string>__DIR__/fleetmate_export.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>__DIR__</string>
+
+    <!-- Elke donderdag (Weekday 4) om 07:00. Sliep de Mac? Dan draait hij bij het ontwaken. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Weekday</key>
+        <integer>4</integer>
+        <key>Hour</key>
+        <integer>7</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>__DIR__/logs/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>__DIR__/logs/launchd.err.log</string>
+</dict>
+</plist>
