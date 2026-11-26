@@ -1,0 +1,61 @@
+name: Fleetmate export
+
+on:
+  schedule:
+    # Donderdag 05:00 en 06:00 UTC; run_github.py kiest de run die op 07:00 Amsterdamse tijd valt
+    - cron: "0 5 * * 4"
+    - cron: "0 6 * * 4"
+  workflow_dispatch:
+    inputs:
+      naar:
+        description: "Naar wie mailen?"
+        type: choice
+        options: [admin, iedereen]
+        default: admin
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fleetmate-export
+  cancel-in-progress: false
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python run_github.py
+        env:
+          NAAR: ${{ inputs.naar }}
+          # Instellingen (aanpassen in dit bestand)
+          FLEETMATE_BASE_URL: "https://srv5.fleetmate.online/api/v2/"
+          AGENDA_ENDPOINT: "agendas"
+          VEHICLES_ENDPOINT: "vehicles"
+          ONLY_FUTURE: "true"
+          EXCLUDE_HISTORY: "true"
+          EXCEL_EXCLUDE_ITEM_TYPES: "0,6"
+          PAGINATE: "false"
+          EXCEL_UNTIL: "2027-01"
+          SEND_HOUR: "7"
+          DATA_DIR: "."   # xlsx en truck_map.csv staan in de hoofdmap
+          # Geheimen (Settings > Secrets and variables > Actions)
+          FLEETMATE_API_KEY: ${{ secrets.FLEETMATE_API_KEY }}
+          GRAPH_TENANT_ID: ${{ secrets.GRAPH_TENANT_ID }}
+          GRAPH_CLIENT_ID: ${{ secrets.GRAPH_CLIENT_ID }}
+          GRAPH_CLIENT_SECRET: ${{ secrets.GRAPH_CLIENT_SECRET }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_ADMIN: ${{ secrets.MAIL_ADMIN }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: export
+          path: out/
+          retention-days: 90
+          if-no-files-found: ignore

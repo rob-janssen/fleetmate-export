@@ -594,6 +594,42 @@ def write_raw_exports(records, events):
     return path
 
 
+# ---------------------------------------------------------------- pipeline (Azure Function)
+def run_pipeline(cfg, xlsx, truck_map_path, dry_run=False):
+    """Zelfde stappen als main(), maar zonder CLI en met een config-dict. Geeft een samenvatting terug."""
+    key = cfg.get("FLEETMATE_API_KEY", "")
+    if not key or key.startswith("<"):
+        raise RuntimeError("FLEETMATE_API_KEY ontbreekt in de app-instellingen.")
+    api = Api(cfg.get("FLEETMATE_BASE_URL") or "https://srv.fleetmate.online/api/v2/", key)
+    endpoint = cfg.get("AGENDA_ENDPOINT") or "agendas"
+    log(f"Ophalen: {endpoint}")
+    if truthy(cfg.get("PAGINATE"), False):
+        records = api.list_all(endpoint, where=cfg.get("AGENDA_WHERE") or None,
+                               page_size=int(cfg.get("PAGE_SIZE") or "500"))
+    else:
+        records = unwrap(api.get(endpoint))
+    log(f"{len(records)} records opgehaald")
+    vehicle_map = {}
+    if cfg.get("VEHICLES_ENDPOINT", "vehicles"):
+        vehicle_map = fetch_vehicle_map(api, cfg.get("VEHICLES_ENDPOINT") or "vehicles")
+
+    truck_map = load_truck_map(truck_map_path)
+    if os.path.exists(xlsx):
+        from openpyxl import load_workbook
+        truck_map = {**seed_truck_map_from_workbook(load_workbook(xlsx)), **truck_map}
+    truck_map.update(vehicle_map)
+
+    events = normalize(records, cfg, truck_map, vehicle_map)
+    csv_path = write_raw_exports(records, events)
+    log(f"CSV geschreven: {csv_path} ({len(events)} rijen)")
+    sel = excel_selection(events, cfg)
+    unknown = Counter((e["Omschrijving"].split(" voor ")[0][:40] or "(lege titel)")
+                      for e in sel if e["Type"] == "Overig")
+    update_workbook(xlsx, sel, truck_map, truck_map_path, dry_run=dry_run)
+    return {"events": len(sel), "csv": csv_path, "months": month_order(sel),
+            "unknown": dict(unknown), "records": len(records)}
+
+
 # ---------------------------------------------------------------- main
 def main():
     ap = argparse.ArgumentParser(description="Fleetmate agenda -> Excel")
